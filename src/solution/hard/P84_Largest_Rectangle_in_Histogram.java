@@ -6,6 +6,7 @@ import java.util.Stack;
  * @author Yi-Lo
  * 2020/10/24 17:29
  * @version 1.0
+ * @topics Stack、Array
  * @urllink https://leetcode-cn.com/problems/largest-rectangle-in-histogram/
  */
 public class P84_Largest_Rectangle_in_Histogram {

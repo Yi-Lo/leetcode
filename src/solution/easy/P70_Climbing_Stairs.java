@@ -4,6 +4,7 @@ package solution.easy;
  * @author Yi-Lo
  * 2020/10/27 19:21
  * @version 1.0
+ * @topics Dynamic Programming
  * @urllink https://leetcode-cn.com/problems/climbing-stairs/
  */
 public class P70_Climbing_Stairs {

@@ -8,6 +8,7 @@ import java.util.Stack;
  * @author Yi-Lo
  * 2020/10/23 15:53
  * @version 1.0
+ * @topics Stack、String
  * @urllink https://leetcode-cn.com/problems/valid-parentheses/
  */
 public class P20_Valid_Parentheses {
@@ -44,7 +45,6 @@ public class P20_Valid_Parentheses {
         pair.put(')', '(');
         pair.put(']', '[');
         pair.put('}', '{');
-
         Stack<Character> stack = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);

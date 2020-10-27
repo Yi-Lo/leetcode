@@ -6,6 +6,7 @@ import java.util.HashMap;
  * @author Yi-Lo
  * 2020/10/22 17:20
  * @version 1.0
+ * @topics Array、HashTable
  * @urllink https://leetcode-cn.com/problems/two-sum/
  */
 public class P1_Two_Sum {

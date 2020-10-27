@@ -7,6 +7,7 @@ import java.util.HashSet;
  * @author Yi-Lo
  * 2020/10/17 17:16
  * @version 1.0
+ * @topics String、Dynamic Programming
  * @urllink https://leetcode-cn.com/problems/longest-palindromic-substring/
  */
 public class P5_Longest_Palindromic_Substring {

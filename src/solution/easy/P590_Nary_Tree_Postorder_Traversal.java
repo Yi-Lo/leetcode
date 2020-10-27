@@ -11,6 +11,7 @@ import java.util.Stack;
  * @author Yi-Lo
  * 2020/10/27 18:34
  * @version 1.0
+ * @topics Tree
  * @urllink https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
  */
 public class P590_Nary_Tree_Postorder_Traversal {

@@ -7,6 +7,7 @@ import helper.NodeHelper;
  * @author Yi-Lo
  * 2020/10/19 18:22
  * @version 1.0
+ * @topics Linked List
  * @urllink https://leetcode-cn.com/problems/swap-nodes-in-pairs/
  */
 public class P24_Swap_Nodes_in_Pairs {
@@ -25,8 +26,6 @@ public class P24_Swap_Nodes_in_Pairs {
     public static ListNode swapPairs_s2(ListNode head) {
         ListNode newHead = new ListNode(0);
         ListNode temp = head;
-
-
         if (head == null || head.next == null) {
             return head;
         }

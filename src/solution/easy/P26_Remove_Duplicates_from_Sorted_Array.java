@@ -4,6 +4,7 @@ package solution.easy;
  * @author Yi-Lo
  * 2020/10/21 16:10
  * @version 1.0
+ * @topics Array、Two Pointers
  * @urllink https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
  */
 public class P26_Remove_Duplicates_from_Sorted_Array {

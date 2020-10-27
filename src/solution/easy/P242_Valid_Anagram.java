@@ -6,6 +6,7 @@ import java.util.HashMap;
  * @author Yi-Lo
  * 2020/10/25 20:40
  * @version 1.0
+ * @topics Sort、Hash Table
  * @urllink https://leetcode-cn.com/problems/valid-anagram/
  */
 public class P242_Valid_Anagram {
@@ -39,9 +40,26 @@ public class P242_Valid_Anagram {
         return true;
     }
 
+    public static boolean isAnagram_s1(String s, String t) {
+        if (s.length() != t.length()) {
+            return false;
+        }
+        int[] counter = new int[26];
+        for (int i = 0; i < s.length(); i++) {
+            counter[s.charAt(i) - 'a']++;
+            counter[t.charAt(i) - 'a']--;
+        }
+        for (int count : counter) {
+            if (count != 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+
     public static void main(String[] args) {
         String s = "anagram";
         String t = "nagaram";
-        System.out.println(isAnagram(s, t));
+        System.out.println(isAnagram_s1(s, t));
     }
 }

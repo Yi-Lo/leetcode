@@ -7,6 +7,7 @@ import java.util.LinkedList;
  * @author Yi-Lo
  * 2020/10/23 17:40
  * @version 1.0
+ * @topics Heap、Sliding Window
  * @urllink https://leetcode-cn.com/problems/sliding-window-maximum/
  */
 public class P239_Sliding_Window_Maximum {

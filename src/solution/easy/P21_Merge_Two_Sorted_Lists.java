@@ -6,6 +6,7 @@ import structure.ListNode;
  * @author Yi-Lo
  * 2020/10/17 19:34
  * @version 1.0
+ * @topics Linked List
  * @urllink https://leetcode-cn.com/problems/merge-two-sorted-lists/
  */
 public class P21_Merge_Two_Sorted_Lists {

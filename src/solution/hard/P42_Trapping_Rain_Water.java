@@ -6,6 +6,7 @@ import java.util.Stack;
  * @author Yi-Lo
  * 2020/10/25 18:03
  * @version 1.0
+ * @topics Stack、Array、Two Pointers
  * @urllink https://leetcode-cn.com/problems/trapping-rain-water/
  */
 public class P42_Trapping_Rain_Water {
