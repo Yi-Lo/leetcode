@@ -3,7 +3,7 @@ Leetcode
 
 ### Algorithms + Data Structures = Programs
 
-Practice Makes Perfect!
+Practice Makes Perfect :lollipop:
 
 | # | Title | Topic | Solution | Difficulty |
 |---| ----- | ----- | -------- | ---------- |
