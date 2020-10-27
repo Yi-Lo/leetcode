@@ -1,7 +1,9 @@
-LeetCode
+Leetcode
 ========
 
-### LeetCode Algorithm
+### Algorithms + Data Structures = Programs
+
+Practice Makes Perfect!
 
 | # | Title | Topic | Solution | Difficulty |
 |---| ----- | ----- | -------- | ---------- |
