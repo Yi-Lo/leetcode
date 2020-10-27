@@ -1,0 +1,35 @@
+package helper;
+
+import structure.ListNode;
+
+import java.util.ArrayList;
+
+/**
+ * @author Yi-Lo
+ * 2020/10/19 18:24
+ * @version 1.0
+ */
+public class NodeHelper {
+
+    public static ListNode buildList(int[] vals) {
+        ListNode head = null;
+        for (int i = vals.length - 1; i >= 0; i--) {
+            ListNode node = new ListNode(vals[i]);
+            node.next = head;
+            head = node;
+        }
+        return head;
+    }
+
+    public static ListNode buildCycleList(ListNode head, int pos) {
+        ArrayList<ListNode> nodeList = new ArrayList<>();
+        ListNode current = head;
+        while (current != null) {
+            nodeList.add(current);
+            current = current.next;
+        }
+        ListNode tailNode = nodeList.get(nodeList.size() - 1);
+        tailNode.next = nodeList.get(pos);
+        return head;
+    }
+}
