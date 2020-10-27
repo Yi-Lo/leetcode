@@ -1,4 +1,4 @@
-package solution.medim;
+package solution.medium;
 
 import java.util.*;
 
