@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class P144_Binary_Tree_Preorder_Traversal {
 
-    public List<Integer> preorderTraversal(TreeNode root) {
+    public static List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> lst = new ArrayList<>();
         if (root == null) {
             return lst;

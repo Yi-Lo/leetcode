@@ -9,7 +9,7 @@ package solution.medium;
  */
 public class P11_Container_With_Most_Water {
 
-    public int maxArea(int[] height) {
+    public static int maxArea(int[] height) {
         int max = 0;
         int left = 0;
         int right = height.length - 1;

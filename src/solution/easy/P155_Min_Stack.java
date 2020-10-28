@@ -11,7 +11,6 @@ import java.util.Stack;
  */
 public class P155_Min_Stack {
 
-
     private Stack<Integer> xStack;
     private Stack<Integer> minStack;
 
