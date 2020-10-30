@@ -53,4 +53,24 @@ public class P98_Validate_Binary_Search_Tree {
         return isValidBST_s1(root.right);
     }
 
+    public static boolean isValidBST_s2(TreeNode root) {
+        return validBST(root, null, null);
+    }
+
+    public static boolean validBST(TreeNode root, Integer min, Integer max) {
+        if (root == null) {
+            return true;
+        }
+
+        if (min != null && root.val <= min) {
+            return false;
+        }
+
+        if (max != null && root.val >= max) {
+            return false;
+        }
+
+        return validBST(root.left, min, root.val) && validBST(root.right, root.val, max);
+    }
+
 }

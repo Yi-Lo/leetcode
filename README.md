@@ -19,6 +19,8 @@ Practice Makes Perfect :lollipop:
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Linked List、Two Pointers|[Java](./src/solution/medium/P142_Linked_List_Cycle_II.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List、Two Pointers|[Java](./src/solution/easy/P141_Linked_List_Cycle.java)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/easy/P111_Minimum_Depth_of_Binary_Tree.java)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Tree、Depth-first Search|[Java](./src/solution/easy/P104_Maximum_Depth_of_Binary_Tree.java)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|Tree、Depth-first Search|[Java](./src/solution/medium/P98_Validate_Binary_Search_Tree.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Stack、Tree、Hash Table|[Java](./src/solution/medium/P94_Binary_Tree_Inorder_Traversal.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P88_Merge_Sorted_Array.java)|Easy|
