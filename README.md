@@ -28,9 +28,11 @@ Practice Makes Perfect :lollipop:
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Stack、Tree、Hash Table|[Java](./src/solution/medium/P94_Binary_Tree_Inorder_Traversal.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P88_Merge_Sorted_Array.java)|Easy|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Stack、Array|[Java](./src/solution/hard/P84_Largest_Rectangle_in_Histogram.java)|Hard|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|Bit Manipulation、Array、Backtracking|[Java](./src/solution/medium/P78_Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Backtracking|[Java](./src/solution/medium/P77_Combinations.java)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|Array|[Java](./src/solution/easy/P66_Plus_One.java)|Easy|
+|50|[Pow x n](https://leetcode.com/problems/powx-n/)|Math、Binary Search|[Java](./src/solution/medium/P50_Pow_x_n.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Hash Table、String|[Java](./src/solution/medium/P49_Group_Anagrams.java)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Backtracking|[Java](./src/solution/medium/P47_Permutations_II.java)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Backtracking|[Java](./src/solution/medium/P46_Permutations.java)|Medium|
