@@ -17,7 +17,7 @@ public class P429_Nary_Tree_Level_Order_Traversal {
 
     private static List<List<Integer>> result = new ArrayList<>();
 
-    public static List<List<Integer>> levelOrder(Node root) {
+    public static List<List<Integer>> levelOrder_s1(Node root) {
         if (root != null) {
             traverseNode(root, 0);
         }
@@ -34,7 +34,7 @@ public class P429_Nary_Tree_Level_Order_Traversal {
         }
     }
 
-    public static List<List<Integer>> levelOrder_s1(Node root) {
+    public static List<List<Integer>> levelOrder_s2(Node root) {
         List<List<Integer>> lists = new ArrayList<>();
         LinkedList<Node> queue = new LinkedList<>();
         if (root == null) {

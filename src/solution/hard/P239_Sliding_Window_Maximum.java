@@ -12,7 +12,7 @@ import java.util.LinkedList;
  */
 public class P239_Sliding_Window_Maximum {
 
-    public static int[] maxSlidingWindow(int[] nums, int k) {
+    public static int[] maxSlidingWindow_s1(int[] nums, int k) {
         ArrayList<Integer> lst = new ArrayList<>();
         for (int i = 0; i <= nums.length - k; i++) {
             int max = nums[i];
@@ -25,7 +25,7 @@ public class P239_Sliding_Window_Maximum {
         return ans;
     }
 
-    public static int[] maxSlidingWindow_s1(int[] nums, int k) {
+    public static int[] maxSlidingWindow_s2(int[] nums, int k) {
         if (nums == null || k < 1 || nums.length < k) {
             return null;
         }
@@ -51,7 +51,7 @@ public class P239_Sliding_Window_Maximum {
 //        int[] nums = {1};
 //        int[] nums = {1, -1};
         int[] nums = {1, 3, -1, -3, 5, 3, 6, 7};
-        nums = maxSlidingWindow_s1(nums, 3);
+        nums = maxSlidingWindow_s2(nums, 3);
         for (int num : nums) {
             System.out.println(num);
         }

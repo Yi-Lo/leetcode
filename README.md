@@ -6,7 +6,7 @@ Leetcode
 Practice Makes Perfect :lollipop:
 
 | # | Title | Topic | Solution | Difficulty |
-|---| ----- | ----- | -------- | ---------- |
+|---| ----- | ----- | :------: | ---------- |
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|
@@ -17,6 +17,7 @@ Practice Makes Perfect :lollipop:
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Tree|[Java](./src/solution/easy/P226_Invert_Binary_Tree.java)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List|[Java](./src/solution/easy/P206_Reverse_Linked_List.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Array|[Java](./src/solution/medium/P189_Rotate_Array.java)|Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Stack、Design|[Java](./src/solution/easy/P155_Min_Stack.java)|Easy|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Linked List、Two Pointers|[Java](./src/solution/medium/P142_Linked_List_Cycle_II.java)|Medium|
@@ -43,6 +44,7 @@ Practice Makes Perfect :lollipop:
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|String、Backtracking|[Java](./src/solution/medium/P22_Generate_Parentheses.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Linked List|[Java](./src/solution/easy/P21_Merge_Two_Sorted_Lists.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Stack、String|[Java](./src/solution/easy/P20_Valid_Parentheses.java)|Easy|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|String、Backtracking|[Java](./src/solution/medium/P17_Letter_Combinations_of_a_Phone_Number.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Array、Two Pointers|[Java](./src/solution/medium/P11_Container_With_Most_Water.java)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|String、Dynamic Programming|[Java](./src/solution/medium/P5_Longest_Palindromic_Substring.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Array、HashTable|[Java](./src/solution/easy/P1_Two_Sum.java)|Easy|

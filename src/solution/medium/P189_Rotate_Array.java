@@ -11,7 +11,7 @@ import java.util.HashMap;
  */
 public class P189_Rotate_Array {
 
-    public static void rotate(int[] nums, int k) {
+    public static void rotate_s1(int[] nums, int k) {
         k = k % nums.length;
         for (int i = 0; i < k; i++) {
             int last = nums[nums.length - 1];
@@ -22,7 +22,7 @@ public class P189_Rotate_Array {
         }
     }
 
-    public static void rotate_s1(int[] nums, int k) {
+    public static void rotate_s2(int[] nums, int k) {
         k = k % nums.length;
         HashMap<Integer, Integer> map = new HashMap<>();
         int index = 0;

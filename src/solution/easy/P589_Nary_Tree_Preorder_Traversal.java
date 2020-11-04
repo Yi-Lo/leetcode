@@ -16,14 +16,14 @@ import java.util.List;
  */
 public class P589_Nary_Tree_Preorder_Traversal {
 
-    public static List<Integer> preorder(Node root) {
+    public static List<Integer> preorder_s1(Node root) {
         List<Integer> lst = new ArrayList<>();
         if (root == null) {
             return lst;
         }
         lst.add(root.val);
         for (Node child : root.children) {
-            lst.addAll(preorder(child));
+            lst.addAll(preorder_s1(child));
         }
         return lst;
     }

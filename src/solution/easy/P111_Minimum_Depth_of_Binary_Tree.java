@@ -13,7 +13,7 @@ import java.util.LinkedList;
  */
 public class P111_Minimum_Depth_of_Binary_Tree {
 
-    public static int minDepth(TreeNode root) {
+    public static int minDepth_s1(TreeNode root) {
         if (root == null) {
             return 0;
         }
@@ -22,15 +22,15 @@ public class P111_Minimum_Depth_of_Binary_Tree {
         }
         int min_depth = Integer.MAX_VALUE;
         if (root.left != null) {
-            min_depth = Math.min(minDepth(root.left), min_depth);
+            min_depth = Math.min(minDepth_s1(root.left), min_depth);
         }
         if (root.right != null) {
-            min_depth = Math.min(minDepth(root.right), min_depth);
+            min_depth = Math.min(minDepth_s1(root.right), min_depth);
         }
         return min_depth + 1;
     }
 
-    public static int minDepth_s1(TreeNode root) {
+    public static int minDepth_s2(TreeNode root) {
         if (root == null) {
             return 0;
         }

@@ -9,14 +9,14 @@ package solution.easy;
  */
 public class P70_Climbing_Stairs {
 
-    public static int climbStairs(int n) {
+    public static int climbStairs_s1(int n) {
         if (n <= 2) {
             return n;
         }
-        return climbStairs(n - 1) + climbStairs(n - 2);
+        return climbStairs_s1(n - 1) + climbStairs_s1(n - 2);
     }
 
-    public static int climbStairs_s1(int n) {
+    public static int climbStairs_s2(int n) {
         int p = 0, q = 1, ans = 0;
         for (int i = 1; i <= n; i++) {
             ans = p + q;

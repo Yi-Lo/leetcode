@@ -11,7 +11,7 @@ import java.util.HashMap;
  */
 public class P242_Valid_Anagram {
 
-    public static boolean isAnagram(String s, String t) {
+    public static boolean isAnagram_s1(String s, String t) {
         if (s.length() != t.length()) {
             return false;
         }
@@ -40,7 +40,7 @@ public class P242_Valid_Anagram {
         return true;
     }
 
-    public static boolean isAnagram_s1(String s, String t) {
+    public static boolean isAnagram_s2(String s, String t) {
         if (s.length() != t.length()) {
             return false;
         }
@@ -60,6 +60,6 @@ public class P242_Valid_Anagram {
     public static void main(String[] args) {
         String s = "anagram";
         String t = "nagaram";
-        System.out.println(isAnagram_s1(s, t));
+        System.out.println(isAnagram_s2(s, t));
     }
 }

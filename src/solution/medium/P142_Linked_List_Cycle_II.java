@@ -1,7 +1,7 @@
 package solution.medium;
 
-import structure.ListNode;
 import helper.NodeHelper;
+import structure.ListNode;
 
 /**
  * @author Yi-Lo
@@ -12,22 +12,7 @@ import helper.NodeHelper;
  */
 public class P142_Linked_List_Cycle_II {
 
-    public static ListNode detectCycle_s1(ListNode head) {
-        if (head == null || head.next == null) {
-            return null;
-        }
-        int myVal = 10086;
-        while (head != null && head.next != null) {
-            head.val = myVal;
-            if (head.next.val == myVal) {
-                return head.next;
-            }
-            head = head.next;
-        }
-        return null;
-    }
-
-    public static ListNode detectCycle_s2(ListNode head) {
+    public static ListNode detectCycle(ListNode head) {
         if (head == null) {
             return null;
         }
@@ -52,6 +37,6 @@ public class P142_Linked_List_Cycle_II {
         int[] arr = {3, 2, 0, -4};
         ListNode head = NodeHelper.buildList(arr);
         NodeHelper.buildCycleList(head, 1);
-        detectCycle_s2(head);
+        detectCycle(head);
     }
 }

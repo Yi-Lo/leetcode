@@ -9,7 +9,7 @@ package solution.easy;
  */
 public class P26_Remove_Duplicates_from_Sorted_Array {
 
-    public static int removeDuplicates(int[] nums) {
+    public static int removeDuplicates_s1(int[] nums) {
         int len = 1;
         int min = nums[0];
         int max = nums[nums.length - 1];
@@ -35,7 +35,7 @@ public class P26_Remove_Duplicates_from_Sorted_Array {
         return len;
     }
 
-    public static int removeDuplicates_s1(int[] nums) {
+    public static int removeDuplicates_s2(int[] nums) {
         if (nums.length == 0) {
             return 0;
         }
@@ -49,7 +49,7 @@ public class P26_Remove_Duplicates_from_Sorted_Array {
         return i + 1;
     }
 
-    public static int removeDuplicates_s2(int[] nums) {
+    public static int removeDuplicates_s3(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
         }

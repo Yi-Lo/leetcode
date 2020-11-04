@@ -9,7 +9,7 @@ package solution.medium;
  */
 public class P50_Pow_x_n {
 
-    public static double myPow(double x, int n) {
+    public static double myPow_s1(double x, int n) {
         if (x == 1.0) {
             return x;
         }
@@ -33,7 +33,7 @@ public class P50_Pow_x_n {
         return half;
     }
 
-    public static double myPow_s1(double x, int n) {
+    public static double myPow_s2(double x, int n) {
         if (n == 0) {
             return 1;
         }
@@ -44,7 +44,7 @@ public class P50_Pow_x_n {
     }
 
     public static void main(String[] args) {
-        System.out.println(myPow(2, -2));
-        System.out.println(myPow_s1(2, -2147483648));
+        System.out.println(myPow_s1(2, -2));
+        System.out.println(myPow_s2(2, -2147483648));
     }
 }

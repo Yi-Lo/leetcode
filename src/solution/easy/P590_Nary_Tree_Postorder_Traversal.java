@@ -16,21 +16,21 @@ import java.util.Stack;
  */
 public class P590_Nary_Tree_Postorder_Traversal {
 
-    public static List<Integer> postorder(Node root) {
+    public static List<Integer> postorder_s1(Node root) {
         List<Integer> lst = new ArrayList<>();
         if (root == null) {
             return lst;
         }
         if (root.children != null) {
             for (Node node : root.children) {
-                lst.addAll(postorder(node));
+                lst.addAll(postorder_s1(node));
             }
         }
         lst.add(root.val);
         return lst;
     }
 
-    public static List<Integer> postorder_s1(Node root) {
+    public static List<Integer> postorder_s2(Node root) {
         Stack<Node> stack = new Stack<>();
         LinkedList<Integer> lst = new LinkedList<>();
         if (root == null) {

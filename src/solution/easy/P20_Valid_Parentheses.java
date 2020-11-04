@@ -13,7 +13,7 @@ import java.util.Stack;
  */
 public class P20_Valid_Parentheses {
 
-    public static boolean isValid(String s) {
+    public static boolean isValid_s1(String s) {
         char[] arr = s.toCharArray();
         Stack<Character> stack = new Stack();
         for (int i = 0; i < arr.length; i++) {
@@ -36,7 +36,7 @@ public class P20_Valid_Parentheses {
         return stack.isEmpty();
     }
 
-    public static boolean isValid_s1(String s) {
+    public static boolean isValid_s2(String s) {
         int len = s.length();
         if (len % 2 == 1) {
             return false;

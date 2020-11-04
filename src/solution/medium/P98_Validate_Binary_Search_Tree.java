@@ -17,7 +17,7 @@ public class P98_Validate_Binary_Search_Tree {
 
     private static LinkedList<Integer> queue = new LinkedList<>();
 
-    public static boolean isValidBST(TreeNode root) {
+    public static boolean isValidBST_s1(TreeNode root) {
         inOrderBST(root);
         return result;
     }
@@ -39,21 +39,21 @@ public class P98_Validate_Binary_Search_Tree {
 
     private static int pre = Integer.MIN_VALUE;
 
-    public static boolean isValidBST_s1(TreeNode root) {
+    public static boolean isValidBST_s2(TreeNode root) {
         if (root == null) {
             return true;
         }
-        if (!isValidBST_s1(root.left)) {
+        if (!isValidBST_s2(root.left)) {
             return false;
         }
         if (root.val <= pre) {
             return false;
         }
         pre = root.val;
-        return isValidBST_s1(root.right);
+        return isValidBST_s2(root.right);
     }
 
-    public static boolean isValidBST_s2(TreeNode root) {
+    public static boolean isValidBST_s3(TreeNode root) {
         return validBST(root, null, null);
     }
 
@@ -61,15 +61,12 @@ public class P98_Validate_Binary_Search_Tree {
         if (root == null) {
             return true;
         }
-
         if (min != null && root.val <= min) {
             return false;
         }
-
         if (max != null && root.val >= max) {
             return false;
         }
-
         return validBST(root.left, min, root.val) && validBST(root.right, root.val, max);
     }
 

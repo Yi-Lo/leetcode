@@ -11,7 +11,7 @@ import java.util.*;
  */
 public class P49_Group_Anagrams {
 
-    public static List<List<String>> groupAnagrams(String[] strs) {
+    public static List<List<String>> groupAnagrams_s1(String[] strs) {
         List<List<String>> resList = new ArrayList<>();
         Map<String, List<String>> map = new HashMap<>();
         for (String str : strs) {
@@ -41,7 +41,7 @@ public class P49_Group_Anagrams {
         return map.toString();
     }
 
-    public static List<List<String>> groupAnagrams_s1(String[] strs) {
+    public static List<List<String>> groupAnagrams_s2(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
         for (String str : strs) {
             char[] counter = new char[26];
@@ -62,6 +62,6 @@ public class P49_Group_Anagrams {
 //        String[] strs = {"ddddddddddg", "dgggggggggg"};
         String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
 //        String[] strs = {"cab", "tin", "pew", "duh", "may", "ill", "buy", "bar", "max", "doc"};
-        System.out.println(groupAnagrams_s1(strs));
+        System.out.println(groupAnagrams_s2(strs));
     }
 }
