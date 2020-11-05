@@ -25,6 +25,7 @@ Practice Makes Perfect :lollipop:
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/easy/P111_Minimum_Depth_of_Binary_Tree.java)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Tree、Depth-first Search、Array|[Java](./src/solution/medium/P105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Tree、Depth-first Search|[Java](./src/solution/easy/P104_Maximum_Depth_of_Binary_Tree.java)|Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P102_Binary_Tree_Level_Order_Traversal.java)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|Tree、Depth-first Search|[Java](./src/solution/medium/P98_Validate_Binary_Search_Tree.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Stack、Tree、Hash Table|[Java](./src/solution/medium/P94_Binary_Tree_Inorder_Traversal.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P88_Merge_Sorted_Array.java)|Easy|
@@ -33,6 +34,7 @@ Practice Makes Perfect :lollipop:
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Backtracking|[Java](./src/solution/medium/P77_Combinations.java)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|Array|[Java](./src/solution/easy/P66_Plus_One.java)|Easy|
+|51|[N Queens](https://leetcode.com/problems/n-queens/)|Backtracking|[Java](./src/solution/hard/P51_N_Queens.java)|Hard|
 |50|[Pow x n](https://leetcode.com/problems/powx-n/)|Math、Binary Search|[Java](./src/solution/medium/P50_Pow_x_n.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Hash Table、String|[Java](./src/solution/medium/P49_Group_Anagrams.java)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Backtracking|[Java](./src/solution/medium/P47_Permutations_II.java)|Medium|
