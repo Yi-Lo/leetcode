@@ -68,9 +68,8 @@ public class P126_Word_Ladder_II {
     }
 
     public static List<List<String>> findLadders_s2(String beginWord, String endWord, List<String> wordList) {
-        List<List<String>> res = new ArrayList<>();
         if (!wordList.contains(endWord) || wordList.isEmpty()) {
-            return res;
+            return result;
         }
         Set<String> dict = new HashSet<>(wordList), qs = new HashSet<>(), qe = new HashSet<>();
         qs.add(beginWord);
@@ -78,8 +77,8 @@ public class P126_Word_Ladder_II {
         Map<String, List<String>> map = new HashMap<>();
         traverse(dict, qs, qe, map, false);
         List<String> sol = new ArrayList<>(Arrays.asList(beginWord));
-        buildList(beginWord, endWord, map, sol, res);
-        return res;
+        buildList(beginWord, endWord, map, sol);
+        return result;
     }
 
     public static boolean traverse(Set<String> dict, Set<String> qs, Set<String> qe, Map<String, List<String>> map, boolean flip) {
@@ -117,16 +116,16 @@ public class P126_Word_Ladder_II {
         return done || traverse(dict, qe, nq, map, !flip);
     }
 
-    public static void buildList(String start, String end, Map<String, List<String>> map, List<String> sol, List<List<String>> res) {
+    public static void buildList(String start, String end, Map<String, List<String>> map, List<String> sol) {
         if (start.equals(end)) {
-            res.add(new ArrayList<>(sol));
+            result.add(new ArrayList<>(sol));
         }
         if (!map.containsKey(start)) {
             return;
         }
         for (String word : map.get(start)) {
             sol.add(word);
-            buildList(word, end, map, sol, res);
+            buildList(word, end, map, sol);
             sol.remove(sol.size() - 1);
         }
     }
