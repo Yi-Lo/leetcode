@@ -45,11 +45,13 @@ Practice Makes Perfect :lollipop:
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Backtracking|[Java](./src/solution/medium/P77_Combinations.java)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|Array|[Java](./src/solution/easy/P66_Plus_One.java)|Easy|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|Greedy、Array|[Java](./src/solution/medium/P55_Jump_Game.java)|Medium|
 |51|[N Queens](https://leetcode.com/problems/n-queens/)|Backtracking|[Java](./src/solution/hard/P51_N_Queens.java)|Hard|
 |50|[Pow x n](https://leetcode.com/problems/powx-n/)|Math、Binary Search|[Java](./src/solution/medium/P50_Pow_x_n.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Hash Table、String|[Java](./src/solution/medium/P49_Group_Anagrams.java)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Backtracking|[Java](./src/solution/medium/P47_Permutations_II.java)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Backtracking|[Java](./src/solution/medium/P46_Permutations.java)|Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Greedy、Array|[Java](./src/solution/hard/P45_Jump_Game_II.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Stack、Array、Two Pointers|[Java](./src/solution/hard/P42_Trapping_Rain_Water.java)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|
 |25|[Reverse Nodes in kGroup](https://leetcode.com/problems/reverse-nodes-in-k-group/)|Linked List|[Java](./src/solution/hard/P25_Reverse_Nodes_in_kGroup.java)|Hard|
