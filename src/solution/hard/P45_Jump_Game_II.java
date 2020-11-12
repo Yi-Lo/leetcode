@@ -5,7 +5,7 @@ package solution.hard;
  * 2020/11/11 17:31
  * @version 1.0
  * @topics Greedy、Array
- * @urllink https://leetcode-cn.com/problems/jump_s1-game-ii/
+ * @urllink https://leetcode-cn.com/problems/jump-game-ii/
  */
 public class P45_Jump_Game_II {
 

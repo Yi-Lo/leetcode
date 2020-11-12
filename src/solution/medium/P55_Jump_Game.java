@@ -8,7 +8,7 @@ import java.util.List;
  * 2020/11/11 17:35
  * @version 1.0
  * @topics Greedy、Array
- * @urllink https://leetcode-cn.com/problems/jump_s1-game/
+ * @urllink https://leetcode-cn.com/problems/jump-game/
  */
 public class P55_Jump_Game {
 
