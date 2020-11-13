@@ -44,6 +44,7 @@ Practice Makes Perfect :lollipop:
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Stack、Array|[Java](./src/solution/hard/P84_Largest_Rectangle_in_Histogram.java)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Bit Manipulation、Array、Backtracking|[Java](./src/solution/medium/P78_Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Backtracking|[Java](./src/solution/medium/P77_Combinations.java)|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Array、Binary Search|[Java](./src/solution/medium/P74_Search_a_2D_Matrix.java)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
 |69|[Sqrtx](https://leetcode.com/problems/sqrtx/)|Math、Binary Search|[Java](./src/solution/easy/P69_Sqrtx.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|Array|[Java](./src/solution/easy/P66_Plus_One.java)|Easy|
@@ -55,6 +56,7 @@ Practice Makes Perfect :lollipop:
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Backtracking|[Java](./src/solution/medium/P46_Permutations.java)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Greedy、Array|[Java](./src/solution/hard/P45_Jump_Game_II.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Stack、Array、Two Pointers|[Java](./src/solution/hard/P42_Trapping_Rain_Water.java)|Hard|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P33_Search_in_Rotated_Sorted_Array.java)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|
 |25|[Reverse Nodes in kGroup](https://leetcode.com/problems/reverse-nodes-in-k-group/)|Linked List|[Java](./src/solution/hard/P25_Reverse_Nodes_in_kGroup.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Linked List|[Java](./src/solution/medium/P24_Swap_Nodes_in_Pairs.java)|Medium|
