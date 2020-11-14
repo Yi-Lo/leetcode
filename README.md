@@ -28,12 +28,14 @@ Practice Makes Perfect :lollipop:
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Array|[Java](./src/solution/medium/P189_Rotate_Array.java)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Stack、Design|[Java](./src/solution/easy/P155_Min_Stack.java)|Easy|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P153_Find_Minimum_in_Rotated_Sorted_Array.java)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Linked List、Two Pointers|[Java](./src/solution/medium/P142_Linked_List_Cycle_II.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List、Two Pointers|[Java](./src/solution/easy/P141_Linked_List_Cycle.java)|Easy|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|Breadth-first Search|[Java](./src/solution/medium/P127_Word_Ladder.java)|Medium|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|Breadth-first Search、Array、String、Backtracking|[Java](./src/solution/hard/P126_Word_Ladder_II.java)|Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Greedy、Array|[Java](./src/solution/easy/P122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|Array、Dynamic Programming|[Java](./src/solution/medium/P120_Triangle.java)|Medium|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/easy/P111_Minimum_Depth_of_Binary_Tree.java)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Tree、Depth-first Search、Array|[Java](./src/solution/medium/P105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Tree、Depth-first Search|[Java](./src/solution/easy/P104_Maximum_Depth_of_Binary_Tree.java)|Easy|
