@@ -10,6 +10,7 @@ Practice Makes Perfect :lollipop:
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|Greedy|[Java](./src/solution/easy/P874_Walking_Robot_Simulation.java)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|Greedy|[Java](./src/solution/easy/P860_Lemonade_Change.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Hash Table|[Java](./src/solution/easy/P771_Jewels_and_Stones.java)|Easy|
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Greedy、Array、Dynamic Programming|[Java](./src/solution/medium/P714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.java)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|String|[Java](./src/solution/easy/P709_To_Lower_Case.java)|Easy|
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
@@ -22,6 +23,7 @@ Practice Makes Perfect :lollipop:
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Dynamic Programming|[Java](./src/solution/medium/P309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Tree、Design|[Java](./src/solution/hard/P297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Heap、Sliding Window|[Java](./src/solution/hard/P239_Sliding_Window_Maximum.java)|Hard|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Tree|[Java](./src/solution/medium/P236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
