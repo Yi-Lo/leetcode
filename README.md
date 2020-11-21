@@ -58,9 +58,11 @@ Practice Makes Perfect :lollipop:
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Bit Manipulation、Array、Backtracking|[Java](./src/solution/medium/P78_Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Backtracking|[Java](./src/solution/medium/P77_Combinations.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Array、Binary Search|[Java](./src/solution/medium/P74_Search_a_2D_Matrix.java)|Medium|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|String、Dynamic Programming|[Java](./src/solution/hard/P72_Edit_Distance.java)|Hard|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
 |69|[Sqrtx](https://leetcode.com/problems/sqrtx/)|Math、Binary Search|[Java](./src/solution/easy/P69_Sqrtx.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|Array|[Java](./src/solution/easy/P66_Plus_One.java)|Easy|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Array、Dynamic Programming|[Java](./src/solution/medium/P62_Unique_Paths.java)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|String|[Java](./src/solution/easy/P58_Length_of_Last_Word.java)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|Greedy、Array|[Java](./src/solution/medium/P55_Jump_Game.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Array、Divide and Conquer、Dynamic Programming|[Java](./src/solution/easy/P53_Maximum_Subarray.java)|Easy|
