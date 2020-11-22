@@ -7,6 +7,7 @@ Practice Makes Perfect :lollipop:
 
 | # | Title | Topic | Solution | Difficulty |
 |---| ----- | ----- | :------: | ---------- |
+|980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|Depth-first Search、Backtracking|[Java](./src/solution/hard/P980_Unique_Paths_III.java)|Hard|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|Greedy|[Java](./src/solution/easy/P874_Walking_Robot_Simulation.java)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|Greedy|[Java](./src/solution/easy/P860_Lemonade_Change.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Hash Table|[Java](./src/solution/easy/P771_Jewels_and_Stones.java)|Easy|
@@ -62,6 +63,7 @@ Practice Makes Perfect :lollipop:
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
 |69|[Sqrtx](https://leetcode.com/problems/sqrtx/)|Math、Binary Search|[Java](./src/solution/easy/P69_Sqrtx.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|Array|[Java](./src/solution/easy/P66_Plus_One.java)|Easy|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Array、Dynamic Programming|[Java](./src/solution/medium/P63_Unique_Paths_II.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Array、Dynamic Programming|[Java](./src/solution/medium/P62_Unique_Paths.java)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|String|[Java](./src/solution/easy/P58_Length_of_Last_Word.java)|Easy|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|Greedy、Array|[Java](./src/solution/medium/P55_Jump_Game.java)|Medium|
