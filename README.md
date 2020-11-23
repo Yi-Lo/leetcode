@@ -16,6 +16,7 @@ Practice Makes Perfect :lollipop:
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P529_Minesweeper.java)|Medium|
+|518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|[Java](./src/solution/easy/P455_Assign_Cookies.java)|Easy|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Backtracking、Breadth-first Search|[Java](./src/solution/medium/P433_Minimum_Genetic_Mutation.java)|Medium|
@@ -76,6 +77,7 @@ Practice Makes Perfect :lollipop:
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Greedy、Array|[Java](./src/solution/hard/P45_Jump_Game_II.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Stack、Array、Two Pointers|[Java](./src/solution/hard/P42_Trapping_Rain_Water.java)|Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P33_Search_in_Rotated_Sorted_Array.java)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|String、Dynamic Programming|[Java](./src/solution/hard/P32_Longest_Valid_Parentheses.java)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|
 |25|[Reverse Nodes in kGroup](https://leetcode.com/problems/reverse-nodes-in-k-group/)|Linked List|[Java](./src/solution/hard/P25_Reverse_Nodes_in_kGroup.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Linked List|[Java](./src/solution/medium/P24_Swap_Nodes_in_Pairs.java)|Medium|
