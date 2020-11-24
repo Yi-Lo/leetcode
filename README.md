@@ -55,6 +55,7 @@ Practice Makes Perfect :lollipop:
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P102_Binary_Tree_Level_Order_Traversal.java)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|Tree、Depth-first Search|[Java](./src/solution/medium/P98_Validate_Binary_Search_Tree.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Stack、Tree、Hash Table|[Java](./src/solution/medium/P94_Binary_Tree_Inorder_Traversal.java)|Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|String、Dynamic Programming|[Java](./src/solution/medium/P91_Decode_Ways.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P88_Merge_Sorted_Array.java)|Easy|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Stack、Array|[Java](./src/solution/hard/P84_Largest_Rectangle_in_Histogram.java)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Bit Manipulation、Array、Backtracking|[Java](./src/solution/medium/P78_Subsets.java)|Medium|
@@ -64,6 +65,7 @@ Practice Makes Perfect :lollipop:
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
 |69|[Sqrtx](https://leetcode.com/problems/sqrtx/)|Math、Binary Search|[Java](./src/solution/easy/P69_Sqrtx.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|Array|[Java](./src/solution/easy/P66_Plus_One.java)|Easy|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|Array、Dynamic Programming|[Java](./src/solution/medium/P64_Minimum_Path_Sum.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Array、Dynamic Programming|[Java](./src/solution/medium/P63_Unique_Paths_II.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Array、Dynamic Programming|[Java](./src/solution/medium/P62_Unique_Paths.java)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|String|[Java](./src/solution/easy/P58_Length_of_Last_Word.java)|Easy|
