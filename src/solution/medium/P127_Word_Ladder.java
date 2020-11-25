@@ -12,8 +12,7 @@ import java.util.*;
 public class P127_Word_Ladder {
 
     private static int result = 0;
-
-
+    
     public static int ladderLength_s1(String beginWord, String endWord, List<String> wordList) {
         if (wordList.isEmpty() || !wordList.contains(endWord)) {
             return result;
