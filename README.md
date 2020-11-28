@@ -17,6 +17,7 @@ Practice Makes Perfect :lollipop:
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Greedy、Queue、Array|[Java](./src/solution/medium/P621_Task_Scheduler.java)|Medium|
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
+|552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|Dynamic Programming|[Java](./src/solution/hard/P552_Student_Attendance_Record_II.java)|Hard|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P529_Minesweeper.java)|Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
@@ -66,6 +67,7 @@ Practice Makes Perfect :lollipop:
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Stack、Array|[Java](./src/solution/hard/P84_Largest_Rectangle_in_Histogram.java)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Bit Manipulation、Array、Backtracking|[Java](./src/solution/medium/P78_Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Backtracking|[Java](./src/solution/medium/P77_Combinations.java)|Medium|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hash Table、Two Pointers、String、Sliding Window|[Java](./src/solution/hard/P76_Minimum_Window_Substring.java)|Hard|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Array、Binary Search|[Java](./src/solution/medium/P74_Search_a_2D_Matrix.java)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|String、Dynamic Programming|[Java](./src/solution/hard/P72_Edit_Distance.java)|Hard|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
