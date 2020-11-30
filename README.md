@@ -7,6 +7,7 @@ Practice Makes Perfect :lollipop:
 
 | # | Title | Topic | Solution | Difficulty |
 |---| ----- | ----- | :------: | ---------- |
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|String|[Java](./src/solution/medium/P1268_Search_Suggestions_System.java)|Medium|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|Depth-first Search、Backtracking|[Java](./src/solution/hard/P980_Unique_Paths_III.java)|Hard|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|Greedy|[Java](./src/solution/easy/P874_Walking_Robot_Simulation.java)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|Greedy|[Java](./src/solution/easy/P860_Lemonade_Change.java)|Easy|
@@ -39,6 +40,7 @@ Practice Makes Perfect :lollipop:
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Tree|[Java](./src/solution/easy/P226_Invert_Binary_Tree.java)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Dynamic Programming|[Java](./src/solution/medium/P221_Maximal_Square.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Dynamic Programming|[Java](./src/solution/medium/P213_House_Robber_II.java)|Medium|
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Trie、Backtracking|[Java](./src/solution/hard/P212_Word_Search_II.java)|Hard|
 |208|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Design、Trie|[Java](./src/solution/medium/P208_Implement_Trie_Prefix_Tree.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List|[Java](./src/solution/easy/P206_Reverse_Linked_List.java)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P200_Number_of_Islands.java)|Medium|
