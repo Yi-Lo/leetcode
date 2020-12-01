@@ -8,6 +8,7 @@ Practice Makes Perfect :lollipop:
 | # | Title | Topic | Solution | Difficulty |
 |---| ----- | ----- | :------: | ---------- |
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|String|[Java](./src/solution/medium/P1268_Search_Suggestions_System.java)|Medium|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Dynamic Programming|[Java](./src/solution/medium/P1143_Longest_Common_Subsequence.java)|Medium|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|Depth-first Search、Backtracking|[Java](./src/solution/hard/P980_Unique_Paths_III.java)|Hard|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|Greedy|[Java](./src/solution/easy/P874_Walking_Robot_Simulation.java)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|Greedy|[Java](./src/solution/easy/P860_Lemonade_Change.java)|Easy|
@@ -19,6 +20,7 @@ Practice Makes Perfect :lollipop:
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|Dynamic Programming|[Java](./src/solution/hard/P552_Student_Attendance_Record_II.java)|Hard|
+|547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Depth-first Search、Union Find|[Java](./src/solution/medium/P547_Friend_Circles.java)|Medium|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P529_Minesweeper.java)|Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
