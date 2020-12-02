@@ -18,6 +18,21 @@ public class UnionFind {
         }
     }
 
+    public UnionFind(char[][] grid) {
+        count = 0;
+        int m = grid.length;
+        int n = grid[0].length;
+        parent = new int[m * n];
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == '1') {
+                    parent[i * n + j] = i * n + j;
+                    count++;
+                }
+            }
+        }
+    }
+
     public int find(int p) {
         while (p != parent[p]) {
             parent[p] = parent[parent[p]];
