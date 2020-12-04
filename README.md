@@ -9,9 +9,11 @@ Practice Makes Perfect :lollipop:
 |---| ----- | ----- | :------: | ---------- |
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|String|[Java](./src/solution/medium/P1268_Search_Suggestions_System.java)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Dynamic Programming|[Java](./src/solution/medium/P1143_Longest_Common_Subsequence.java)|Medium|
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|Breadth-first Search|[Java](./src/solution/medium/P1091_Shortest_Path_in_Binary_Matrix.java)|Medium|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|Depth-first Search、Backtracking|[Java](./src/solution/hard/P980_Unique_Paths_III.java)|Hard|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|Greedy|[Java](./src/solution/easy/P874_Walking_Robot_Simulation.java)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|Greedy|[Java](./src/solution/easy/P860_Lemonade_Change.java)|Easy|
+|773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|Breadth-first Search|[Java](./src/solution/hard/P773_Sliding_Puzzle.java)|Hard|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Hash Table|[Java](./src/solution/easy/P771_Jewels_and_Stones.java)|Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Greedy、Array、Dynamic Programming|[Java](./src/solution/medium/P714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.java)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|String|[Java](./src/solution/easy/P709_To_Lower_Case.java)|Easy|
