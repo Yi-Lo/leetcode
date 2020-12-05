@@ -41,6 +41,7 @@ Practice Makes Perfect :lollipop:
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Heap、Sliding Window|[Java](./src/solution/hard/P239_Sliding_Window_Maximum.java)|Hard|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Tree|[Java](./src/solution/medium/P236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Bit Manipulation、Math|[Java](./src/solution/easy/P231_Power_of_Two.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Tree|[Java](./src/solution/easy/P226_Invert_Binary_Tree.java)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Dynamic Programming|[Java](./src/solution/medium/P221_Maximal_Square.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Dynamic Programming|[Java](./src/solution/medium/P213_House_Robber_II.java)|Medium|
@@ -49,6 +50,8 @@ Practice Makes Perfect :lollipop:
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List|[Java](./src/solution/easy/P206_Reverse_Linked_List.java)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P200_Number_of_Islands.java)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic Programming|[Java](./src/solution/easy/P198_House_Robber.java)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Bit Manipulation|[Java](./src/solution/easy/P191_Number_of_1_Bits.java)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Bit Manipulation|[Java](./src/solution/easy/P190_Reverse_Bits.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Array|[Java](./src/solution/medium/P189_Rotate_Array.java)|Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Dynamic Programming|[Java](./src/solution/hard/P188_Best_Time_to_Buy_and_Sell_Stock_IV.java)|Hard|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|

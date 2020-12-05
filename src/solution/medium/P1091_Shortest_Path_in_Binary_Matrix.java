@@ -39,8 +39,8 @@ public class P1091_Shortest_Path_in_Binary_Matrix {
     }
 
     public static int shortestPathBinaryMatrix_s2(int[][] grid) {
-        LinkedList<int[]> queue = new LinkedList<>();
         int n = grid.length;
+        LinkedList<int[]> queue = new LinkedList<>();
         if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1) return -1;
         queue.addLast(new int[]{0, 0});
         grid[0][0] = 1;
