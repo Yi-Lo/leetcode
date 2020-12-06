@@ -1,8 +1,5 @@
 package solution.medium;
 
-import java.util.HashMap;
-import java.util.HashSet;
-
 /**
  * @author Yi-Lo
  * 2020/10/17 17:16
@@ -13,57 +10,29 @@ import java.util.HashSet;
 public class P5_Longest_Palindromic_Substring {
 
     public static String longestPalindrome(String s) {
-        int len = s.length();
-        if (len == 1) {
-            return s;
-        }
-        HashSet<String> set = new HashSet<>();
-        String[] arr = s.split("");
-        for (String ss : arr) {
-            set.add(ss);
-        }
-        if (set.size() == 1) {
-            return s;
-        }
-        if (len == 2) {
-            if (s.charAt(0) == s.charAt(1)) {
-                return s;
-            }
-            return s.substring(0, 1);
-        }
-        int maxlen = 0;
-        HashMap<Integer, String> resMap = new HashMap<>();
-        for (int i = 1; i < len - 1; i++) {
-            int left = i - 1;
-            int right = i + 1;
-            if (s.charAt(left) == s.charAt(i)) {
-                left--;
-            }
-            if (s.charAt(i) == s.charAt(right)) {
-                right++;
-            }
-            boolean find = false;
-            while (left > -1 && right < len && (s.charAt(left) == s.charAt(right))) {
-                find = true;
-                left--;
-                right++;
-            }
-            if (find) {
-                left++;
-                right--;
-            }
-            int sublen = right - left + 1;
-            if (find && sublen > maxlen) {
-                resMap.put(sublen, s.substring(left, right + 1));
-                maxlen = sublen;
+        if (s == null || s.length() < 1) return "";
+        int start = 0, end = 0;
+        for (int i = 0; i < s.length(); i++) {
+            int len1 = expandAroundCenter(s, i, i);
+            int len2 = expandAroundCenter(s, i, i + 1);
+            int len = Math.max(len1, len2);
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
             }
         }
-        return resMap.isEmpty() ? s.substring(0, 1) : resMap.get(maxlen);
+        return s.substring(start, end + 1);
+    }
+
+    public static int expandAroundCenter(String s, int left, int right) {
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
+        }
+        return right - left - 1;
     }
 
     public static void main(String[] args) {
-        String str = "cbbba";
-        String res = longestPalindrome(str);
-        System.out.println(res);
+        System.out.println(longestPalindrome("cbbba"));
     }
 }
