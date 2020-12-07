@@ -9,6 +9,7 @@ Practice Makes Perfect :lollipop:
 |---| ----- | ----- | :------: | ---------- |
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|String|[Java](./src/solution/medium/P1268_Search_Suggestions_System.java)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Dynamic Programming|[Java](./src/solution/medium/P1143_Longest_Common_Subsequence.java)|Medium|
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|Sort、Array|[Java](./src/solution/easy/P1122_Relative_Sort_Array.java)|Easy|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|Breadth-first Search|[Java](./src/solution/medium/P1091_Shortest_Path_in_Binary_Matrix.java)|Medium|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|Depth-first Search、Backtracking|[Java](./src/solution/hard/P980_Unique_Paths_III.java)|Hard|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|Greedy|[Java](./src/solution/easy/P874_Walking_Robot_Simulation.java)|Easy|
@@ -59,6 +60,7 @@ Practice Makes Perfect :lollipop:
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Stack、Design|[Java](./src/solution/easy/P155_Min_Stack.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P153_Find_Minimum_in_Rotated_Sorted_Array.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Array、Dynamic Programming|[Java](./src/solution/medium/P152_Maximum_Product_Subarray.java)|Medium|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Design|[Java](./src/solution/medium/P146_LRU_Cache.java)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Linked List、Two Pointers|[Java](./src/solution/medium/P142_Linked_List_Cycle_II.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List、Two Pointers|[Java](./src/solution/easy/P141_Linked_List_Cycle.java)|Easy|
