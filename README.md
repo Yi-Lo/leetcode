@@ -8,6 +8,7 @@ Practice Makes Perfect :lollipop:
 | # | Title | Topic | Solution | Difficulty |
 |---| ----- | ----- | :------: | ---------- |
 |1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|String|[Java](./src/solution/medium/P1268_Search_Suggestions_System.java)|Medium|
+|1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/)|Sort、Design、Hash Table|[Java](./src/solution/medium/P1244_Design_A_Leaderboard.java)|Medium|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Dynamic Programming|[Java](./src/solution/medium/P1143_Longest_Common_Subsequence.java)|Medium|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|Sort、Array|[Java](./src/solution/easy/P1122_Relative_Sort_Array.java)|Easy|
 |1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|Breadth-first Search|[Java](./src/solution/medium/P1091_Shortest_Path_in_Binary_Matrix.java)|Medium|
@@ -92,6 +93,7 @@ Practice Makes Perfect :lollipop:
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|Array、Dynamic Programming|[Java](./src/solution/medium/P63_Unique_Paths_II.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Array、Dynamic Programming|[Java](./src/solution/medium/P62_Unique_Paths.java)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|String|[Java](./src/solution/easy/P58_Length_of_Last_Word.java)|Easy|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Sort、Array|[Java](./src/solution/medium/P56_Merge_Intervals.java)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|Greedy、Array|[Java](./src/solution/medium/P55_Jump_Game.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Array、Divide and Conquer、Dynamic Programming|[Java](./src/solution/easy/P53_Maximum_Subarray.java)|Easy|
 |52|[N Queens II](https://leetcode.com/problems/n-queens-ii/)|Backtracking|[Java](./src/solution/hard/P52_N_Queens_II.java)|Hard|
