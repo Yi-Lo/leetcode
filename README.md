@@ -17,6 +17,7 @@ Practice Makes Perfect :lollipop:
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|Greedy|[Java](./src/solution/easy/P860_Lemonade_Change.java)|Easy|
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|Breadth-first Search|[Java](./src/solution/hard/P773_Sliding_Puzzle.java)|Hard|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Hash Table|[Java](./src/solution/easy/P771_Jewels_and_Stones.java)|Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Array、Dynamic Programming|[Java](./src/solution/easy/P746_Min_Cost_Climbing_Stairs.java)|Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Greedy、Array、Dynamic Programming|[Java](./src/solution/medium/P714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.java)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|String|[Java](./src/solution/easy/P709_To_Lower_Case.java)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|String、Dynamic Programming|[Java](./src/solution/medium/P647_Palindromic_Substrings.java)|Medium|
@@ -28,6 +29,7 @@ Practice Makes Perfect :lollipop:
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P529_Minesweeper.java)|Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
+|493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P493_Reverse_Pairs.java)|Hard|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|[Java](./src/solution/easy/P455_Assign_Cookies.java)|Easy|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Backtracking、Breadth-first Search|[Java](./src/solution/medium/P433_Minimum_Genetic_Mutation.java)|Medium|
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|

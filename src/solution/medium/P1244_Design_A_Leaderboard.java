@@ -27,8 +27,7 @@ public class P1244_Design_A_Leaderboard {
 
         public int top(int K) {
             int sum = 0;
-            List<Integer> lst = new ArrayList<>();
-            lst.addAll(map.values());
+            List<Integer> lst = new ArrayList<>(map.values());
             Collections.sort(lst, (o1, o2) -> o2 - o1);
             for (int val : lst) {
                 K--;
