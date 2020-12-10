@@ -41,6 +41,7 @@ Practice Makes Perfect :lollipop:
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Divide and Conquer、Dynamic Programming|[Java](./src/solution/hard/P312_Burst_Balloons.java)|Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Dynamic Programming|[Java](./src/solution/medium/P309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java)|Medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Binary Search、Dynamic Programming|[Java](./src/solution/medium/P300_Longest_Increasing_Subsequence.java)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Tree、Design|[Java](./src/solution/hard/P297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
@@ -82,6 +83,7 @@ Practice Makes Perfect :lollipop:
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Stack、Tree、Hash Table|[Java](./src/solution/medium/P94_Binary_Tree_Inorder_Traversal.java)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|String、Dynamic Programming|[Java](./src/solution/medium/P91_Decode_Ways.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P88_Merge_Sorted_Array.java)|Easy|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|Stack、Array、Hash Table、Dynamic Programming|[Java](./src/solution/hard/P85_Maximal_Rectangle.java)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|Stack、Array|[Java](./src/solution/hard/P84_Largest_Rectangle_in_Histogram.java)|Hard|
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Bit Manipulation、Array、Backtracking|[Java](./src/solution/medium/P78_Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Backtracking|[Java](./src/solution/medium/P77_Combinations.java)|Medium|
