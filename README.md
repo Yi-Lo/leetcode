@@ -15,6 +15,7 @@ Practice Makes Perfect :lollipop:
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|Depth-first Search、Backtracking|[Java](./src/solution/hard/P980_Unique_Paths_III.java)|Hard|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|Greedy|[Java](./src/solution/easy/P874_Walking_Robot_Simulation.java)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|Greedy|[Java](./src/solution/easy/P860_Lemonade_Change.java)|Easy|
+|818|[Race Car](https://leetcode.com/problems/race-car/)|Heap、Dynamic Programming|[Java](./src/solution/hard/P818_Race_Car.java)|Hard|
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|Breadth-first Search|[Java](./src/solution/hard/P773_Sliding_Puzzle.java)|Hard|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Hash Table|[Java](./src/solution/easy/P771_Jewels_and_Stones.java)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Array、Dynamic Programming|[Java](./src/solution/easy/P746_Min_Cost_Climbing_Stairs.java)|Easy|
@@ -75,6 +76,7 @@ Practice Makes Perfect :lollipop:
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Greedy、Array|[Java](./src/solution/easy/P122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Array、Dynamic Programming|[Java](./src/solution/easy/P121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|Array、Dynamic Programming|[Java](./src/solution/medium/P120_Triangle.java)|Medium|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|String、Dynamic Programming|[Java](./src/solution/hard/P115_Distinct_Subsequences.java)|Hard|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/easy/P111_Minimum_Depth_of_Binary_Tree.java)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Tree、Depth-first Search、Array|[Java](./src/solution/medium/P105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Tree、Depth-first Search|[Java](./src/solution/easy/P104_Maximum_Depth_of_Binary_Tree.java)|Easy|
