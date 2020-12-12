@@ -36,6 +36,7 @@ Practice Makes Perfect :lollipop:
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Binary Search、Dynamic Programming|[Java](./src/solution/hard/P410_Split_Array_Largest_Sum.java)|Hard|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Dynamic Programming|[Java](./src/solution/hard/P403_Frog_Jump.java)|Hard|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Queue、Binary Search、Dynamic Programming|[Java](./src/solution/hard/P363_Max_Sum_of_Rectangle_No_Larger_Than_K.java)|Hard|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation、Dynamic Programming|[Java](./src/solution/medium/P338_Counting_Bits.java)|Medium|
@@ -122,5 +123,6 @@ Practice Makes Perfect :lollipop:
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Stack、String|[Java](./src/solution/easy/P20_Valid_Parentheses.java)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|String、Backtracking|[Java](./src/solution/medium/P17_Letter_Combinations_of_a_Phone_Number.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Array、Two Pointers|[Java](./src/solution/medium/P11_Container_With_Most_Water.java)|Medium|
+|8|[String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/)|Math、String|[Java](./src/solution/medium/P8_String_to_Integer_atoi.java)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|String、Dynamic Programming|[Java](./src/solution/medium/P5_Longest_Palindromic_Substring.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Array、HashTable|[Java](./src/solution/easy/P1_Two_Sum.java)|Easy|
