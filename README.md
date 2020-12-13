@@ -27,6 +27,7 @@ Practice Makes Perfect :lollipop:
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|Dynamic Programming|[Java](./src/solution/hard/P552_Student_Attendance_Record_II.java)|Hard|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Depth-first Search、Union Find|[Java](./src/solution/medium/P547_Friend_Circles.java)|Medium|
+|541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|null|[Java](./src/solution/easy/P541_Reverse_String_II.java)|Easy|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P529_Minesweeper.java)|Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
@@ -39,6 +40,7 @@ Practice Makes Perfect :lollipop:
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Queue、Binary Search、Dynamic Programming|[Java](./src/solution/hard/P363_Max_Sum_of_Rectangle_No_Larger_Than_K.java)|Hard|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation、Dynamic Programming|[Java](./src/solution/medium/P338_Counting_Bits.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Divide and Conquer、Dynamic Programming|[Java](./src/solution/hard/P312_Burst_Balloons.java)|Hard|
@@ -122,6 +124,7 @@ Practice Makes Perfect :lollipop:
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Linked List|[Java](./src/solution/easy/P21_Merge_Two_Sorted_Lists.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Stack、String|[Java](./src/solution/easy/P20_Valid_Parentheses.java)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|String、Backtracking|[Java](./src/solution/medium/P17_Letter_Combinations_of_a_Phone_Number.java)|Medium|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|String|[Java](./src/solution/easy/P14_Longest_Common_Prefix.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Array、Two Pointers|[Java](./src/solution/medium/P11_Container_With_Most_Water.java)|Medium|
 |8|[String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/)|Math、String|[Java](./src/solution/medium/P8_String_to_Integer_atoi.java)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|String、Dynamic Programming|[Java](./src/solution/medium/P5_Longest_Palindromic_Substring.java)|Medium|
