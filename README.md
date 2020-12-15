@@ -22,6 +22,7 @@ Practice Makes Perfect :lollipop:
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Array、Dynamic Programming|[Java](./src/solution/easy/P746_Min_Cost_Climbing_Stairs.java)|Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Greedy、Array、Dynamic Programming|[Java](./src/solution/medium/P714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.java)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|String|[Java](./src/solution/easy/P709_To_Lower_Case.java)|Easy|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|String|[Java](./src/solution/easy/P680_Valid_Palindrome_II.java)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|String、Dynamic Programming|[Java](./src/solution/medium/P647_Palindromic_Substrings.java)|Medium|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Greedy、Queue、Array|[Java](./src/solution/medium/P621_Task_Scheduler.java)|Medium|
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
@@ -35,6 +36,7 @@ Practice Makes Perfect :lollipop:
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P493_Reverse_Pairs.java)|Hard|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|[Java](./src/solution/easy/P455_Assign_Cookies.java)|Easy|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Hash Table|[Java](./src/solution/medium/P438_Find_All_Anagrams_in_a_String.java)|Medium|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Backtracking、Breadth-first Search|[Java](./src/solution/medium/P433_Minimum_Genetic_Mutation.java)|Medium|
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Binary Search、Dynamic Programming|[Java](./src/solution/hard/P410_Split_Array_Largest_Sum.java)|Hard|
@@ -78,6 +80,7 @@ Practice Makes Perfect :lollipop:
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P130_Surrounded_Regions.java)|Medium|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|Breadth-first Search|[Java](./src/solution/medium/P127_Word_Ladder.java)|Medium|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|Breadth-first Search、Array、String、Backtracking|[Java](./src/solution/hard/P126_Word_Ladder_II.java)|Hard|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Two Pointers、String|[Java](./src/solution/easy/P125_Valid_Palindrome.java)|Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|Array、Dynamic Programming|[Java](./src/solution/hard/P123_Best_Time_to_Buy_and_Sell_Stock_III.java)|Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Greedy、Array|[Java](./src/solution/easy/P122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Array、Dynamic Programming|[Java](./src/solution/easy/P121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
