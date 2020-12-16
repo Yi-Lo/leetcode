@@ -9,7 +9,7 @@ package solution.medium;
  */
 public class P5_Longest_Palindromic_Substring {
 
-    public static String longestPalindrome(String s) {
+    public static String longestPalindrome_s1(String s) {
         if (s == null || s.length() < 1) return "";
         int start = 0, end = 0;
         for (int i = 0; i < s.length(); i++) {
@@ -32,7 +32,24 @@ public class P5_Longest_Palindromic_Substring {
         return right - left - 1;
     }
 
+    public static String longestPalindrome_s2(String s) {
+        String str = "";
+        int n = s.length();
+        char[] chs = s.toCharArray();
+        boolean[][] dp = new boolean[n][n];
+        for (int i = n - 1; i >= 0; i--) {
+            for (int j = i; j < n; j++) {
+                dp[i][j] = chs[i] == chs[j] && (j - i < 2 || dp[i + 1][j - 1]);
+                if (dp[i][j] && j - i + 1 > str.length()) {
+                    str = s.substring(i, j + 1);
+                }
+            }
+        }
+        return str;
+    }
+
     public static void main(String[] args) {
-        System.out.println(longestPalindrome("cbbba"));
+        System.out.println(longestPalindrome_s1("cbbba"));
+        System.out.println(longestPalindrome_s2("cbbba"));
     }
 }
