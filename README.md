@@ -41,6 +41,7 @@ Practice Makes Perfect :lollipop:
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Binary Search、Dynamic Programming|[Java](./src/solution/hard/P410_Split_Array_Largest_Sum.java)|Hard|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Dynamic Programming|[Java](./src/solution/hard/P403_Frog_Jump.java)|Hard|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P389_Find_the_Difference.java)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Queue、Binary Search、Dynamic Programming|[Java](./src/solution/hard/P363_Max_Sum_of_Rectangle_No_Larger_Than_K.java)|Hard|
@@ -62,6 +63,7 @@ Practice Makes Perfect :lollipop:
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Trie、Backtracking|[Java](./src/solution/hard/P212_Word_Search_II.java)|Hard|
 |208|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Design、Trie|[Java](./src/solution/medium/P208_Implement_Trie_Prefix_Tree.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List|[Java](./src/solution/easy/P206_Reverse_Linked_List.java)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Hash Table|[Java](./src/solution/easy/P205_Isomorphic_Strings.java)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P200_Number_of_Islands.java)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic Programming|[Java](./src/solution/easy/P198_House_Robber.java)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Bit Manipulation|[Java](./src/solution/easy/P191_Number_of_1_Bits.java)|Easy|
