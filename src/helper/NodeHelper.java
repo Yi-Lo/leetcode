@@ -11,10 +11,10 @@ import java.util.ArrayList;
  */
 public class NodeHelper {
 
-    public static ListNode buildList(int[] vals) {
+    public static ListNode buildList(int[] val) {
         ListNode head = null;
-        for (int i = vals.length - 1; i >= 0; i--) {
-            ListNode node = new ListNode(vals[i]);
+        for (int i = val.length - 1; i >= 0; i--) {
+            ListNode node = new ListNode(val[i]);
             node.next = head;
             head = node;
         }
@@ -31,5 +31,14 @@ public class NodeHelper {
         ListNode tailNode = nodeList.get(nodeList.size() - 1);
         tailNode.next = nodeList.get(pos);
         return head;
+    }
+
+    public static void printValList(ListNode head) {
+        ArrayList<Integer> valList = new ArrayList<>();
+        while (head != null) {
+            valList.add(head.val);
+            head = head.next;
+        }
+        System.out.println(valList);
     }
 }

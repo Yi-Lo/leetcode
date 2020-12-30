@@ -132,10 +132,12 @@ Practice Makes Perfect :lollipop:
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|String、Backtracking|[Java](./src/solution/medium/P22_Generate_Parentheses.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Linked List|[Java](./src/solution/easy/P21_Merge_Two_Sorted_Lists.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Stack、String|[Java](./src/solution/easy/P20_Valid_Parentheses.java)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Linked List、Two Pointers|[Java](./src/solution/medium/P19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|String、Backtracking|[Java](./src/solution/medium/P17_Letter_Combinations_of_a_Phone_Number.java)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|String|[Java](./src/solution/easy/P14_Longest_Common_Prefix.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Array、Two Pointers|[Java](./src/solution/medium/P11_Container_With_Most_Water.java)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|String、Dynamic Programming、Backtracking|[Java](./src/solution/hard/P10_Regular_Expression_Matching.java)|Hard|
 |8|[String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/)|Math、String|[Java](./src/solution/medium/P8_String_to_Integer_atoi.java)|Medium|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Math|[Java](./src/solution/easy/P7_Reverse_Integer.java)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|String、Dynamic Programming|[Java](./src/solution/medium/P5_Longest_Palindromic_Substring.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Array、HashTable|[Java](./src/solution/easy/P1_Two_Sum.java)|Easy|
