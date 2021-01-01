@@ -79,6 +79,7 @@ Practice Makes Perfect :lollipop:
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Linked List、Two Pointers|[Java](./src/solution/medium/P142_Linked_List_Cycle_II.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List、Two Pointers|[Java](./src/solution/easy/P141_Linked_List_Cycle.java)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P136_Single_Number.java)|Easy|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P130_Surrounded_Regions.java)|Medium|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|Breadth-first Search|[Java](./src/solution/medium/P127_Word_Ladder.java)|Medium|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|Breadth-first Search、Array、String、Backtracking|[Java](./src/solution/hard/P126_Word_Ladder_II.java)|Hard|
@@ -92,6 +93,7 @@ Practice Makes Perfect :lollipop:
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Tree、Depth-first Search、Array|[Java](./src/solution/medium/P105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Tree、Depth-first Search|[Java](./src/solution/easy/P104_Maximum_Depth_of_Binary_Tree.java)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P102_Binary_Tree_Level_Order_Traversal.java)|Medium|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/easy/P101_Symmetric_Tree.java)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|Tree、Depth-first Search|[Java](./src/solution/medium/P98_Validate_Binary_Search_Tree.java)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Stack、Tree、Hash Table|[Java](./src/solution/medium/P94_Binary_Tree_Inorder_Traversal.java)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)|String、Dynamic Programming|[Java](./src/solution/medium/P91_Decode_Ways.java)|Medium|
