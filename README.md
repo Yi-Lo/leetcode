@@ -124,6 +124,7 @@ Practice Makes Perfect :lollipop:
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Stack、Array、Two Pointers|[Java](./src/solution/hard/P42_Trapping_Rain_Water.java)|Hard|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|Hash Table、Backtracking|[Java](./src/solution/hard/P37_Sudoku_Solver.java)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Hash Table|[Java](./src/solution/medium/P36_Valid_Sudoku.java)|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P33_Search_in_Rotated_Sorted_Array.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|String、Dynamic Programming|[Java](./src/solution/hard/P32_Longest_Valid_Parentheses.java)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|
@@ -140,4 +141,5 @@ Practice Makes Perfect :lollipop:
 |8|[String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/)|Math、String|[Java](./src/solution/medium/P8_String_to_Integer_atoi.java)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Math|[Java](./src/solution/easy/P7_Reverse_Integer.java)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|String、Dynamic Programming|[Java](./src/solution/medium/P5_Longest_Palindromic_Substring.java)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Array、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P4_Median_of_Two_Sorted_Arrays.java)|Hard|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Array、HashTable|[Java](./src/solution/easy/P1_Two_Sum.java)|Easy|
