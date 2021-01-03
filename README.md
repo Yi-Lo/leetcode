@@ -56,9 +56,11 @@ Practice Makes Perfect :lollipop:
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Heap、Sliding Window|[Java](./src/solution/hard/P239_Sliding_Window_Maximum.java)|Hard|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Tree|[Java](./src/solution/medium/P236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|Linked List、Two Pointers|[Java](./src/solution/easy/P234_Palindrome_Linked_List.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Bit Manipulation、Math|[Java](./src/solution/easy/P231_Power_of_Two.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Tree|[Java](./src/solution/easy/P226_Invert_Binary_Tree.java)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Dynamic Programming|[Java](./src/solution/medium/P221_Maximal_Square.java)|Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Heap、Divide and Conquer|[Java](./src/solution/medium/P215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Dynamic Programming|[Java](./src/solution/medium/P213_House_Robber_II.java)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Trie、Backtracking|[Java](./src/solution/hard/P212_Word_Search_II.java)|Hard|
 |208|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Design、Trie|[Java](./src/solution/medium/P208_Implement_Trie_Prefix_Tree.java)|Medium|
@@ -119,6 +121,7 @@ Practice Makes Perfect :lollipop:
 |51|[N Queens](https://leetcode.com/problems/n-queens/)|Backtracking|[Java](./src/solution/hard/P51_N_Queens.java)|Hard|
 |50|[Pow x n](https://leetcode.com/problems/powx-n/)|Math、Binary Search|[Java](./src/solution/medium/P50_Pow_x_n.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Hash Table、String|[Java](./src/solution/medium/P49_Group_Anagrams.java)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Array|[Java](./src/solution/medium/P48_Rotate_Image.java)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|Backtracking|[Java](./src/solution/medium/P47_Permutations_II.java)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|Backtracking|[Java](./src/solution/medium/P46_Permutations.java)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Greedy、Array|[Java](./src/solution/hard/P45_Jump_Game_II.java)|Hard|
@@ -132,6 +135,7 @@ Practice Makes Perfect :lollipop:
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|
 |25|[Reverse Nodes in kGroup](https://leetcode.com/problems/reverse-nodes-in-k-group/)|Linked List|[Java](./src/solution/hard/P25_Reverse_Nodes_in_kGroup.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Linked List|[Java](./src/solution/medium/P24_Swap_Nodes_in_Pairs.java)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Heap、Linked List、Divide and Conquer|[Java](./src/solution/hard/P23_Merge_k_Sorted_Lists.java)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|String、Backtracking|[Java](./src/solution/medium/P22_Generate_Parentheses.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Linked List|[Java](./src/solution/easy/P21_Merge_Two_Sorted_Lists.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Stack、String|[Java](./src/solution/easy/P20_Valid_Parentheses.java)|Easy|

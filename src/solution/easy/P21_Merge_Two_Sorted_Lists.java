@@ -1,5 +1,6 @@
 package solution.easy;
 
+import helper.NodeHelper;
 import structure.ListNode;
 
 /**
@@ -11,7 +12,7 @@ import structure.ListNode;
  */
 public class P21_Merge_Two_Sorted_Lists {
 
-    public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+    public static ListNode mergeTwoLists_s1(ListNode l1, ListNode l2) {
         if (l1 != null || l2 != null) {
             if (l1 == null) {
                 return l2;
@@ -53,21 +54,26 @@ public class P21_Merge_Two_Sorted_Lists {
         return null;
     }
 
-    public static void main(String[] args) {
-        ListNode a1 = new ListNode(1);
-        ListNode a2 = new ListNode(2);
-        ListNode a3 = new ListNode(4);
-        ListNode b1 = new ListNode(1);
-        ListNode b2 = new ListNode(3);
-        ListNode b3 = new ListNode(4);
-        a1.next = a2;
-        a2.next = a3;
-        b1.next = b2;
-        b2.next = b3;
-        ListNode node = mergeTwoLists(a1, b1);
-        while (node != null) {
-            System.out.println(node.val);
-            node = node.next;
+    public static ListNode mergeTwoLists_s2(ListNode l1, ListNode l2) {
+        if (l1 == null) {
+            return l2;
         }
+        if (l2 == null) {
+            return l1;
+        }
+        if (l1.val <= l2.val) {
+            l1.next = mergeTwoLists_s2(l1.next, l2);
+            return l1;
+        } else {
+            l2.next = mergeTwoLists_s2(l1, l2.next);
+            return l2;
+        }
+    }
+
+    public static void main(String[] args) {
+        ListNode a = NodeHelper.buildList(new int[]{1, 2, 4});
+        ListNode b = NodeHelper.buildList(new int[]{1, 3, 4});
+        ListNode node = mergeTwoLists_s2(a, b);
+        NodeHelper.printValList(node);
     }
 }
