@@ -105,6 +105,7 @@ Practice Makes Perfect :lollipop:
 |78|[Subsets](https://leetcode.com/problems/subsets/)|Bit Manipulation、Array、Backtracking|[Java](./src/solution/medium/P78_Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|Backtracking|[Java](./src/solution/medium/P77_Combinations.java)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hash Table、Two Pointers、String、Sliding Window|[Java](./src/solution/hard/P76_Minimum_Window_Substring.java)|Hard|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|Sort、Array、Two Pointers|[Java](./src/solution/medium/P75_Sort_Colors.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Array、Binary Search|[Java](./src/solution/medium/P74_Search_a_2D_Matrix.java)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|String、Dynamic Programming|[Java](./src/solution/hard/P72_Edit_Distance.java)|Hard|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
@@ -127,11 +128,13 @@ Practice Makes Perfect :lollipop:
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Greedy、Array|[Java](./src/solution/hard/P45_Jump_Game_II.java)|Hard|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|Greedy、String、Dynamic Programming、Backtracking|[Java](./src/solution/hard/P44_Wildcard_Matching.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Stack、Array、Two Pointers|[Java](./src/solution/hard/P42_Trapping_Rain_Water.java)|Hard|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Array、Backtracking|[Java](./src/solution/medium/P39_Combination_Sum.java)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|Hash Table、Backtracking|[Java](./src/solution/hard/P37_Sudoku_Solver.java)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Hash Table|[Java](./src/solution/medium/P36_Valid_Sudoku.java)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P33_Search_in_Rotated_Sorted_Array.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|String、Dynamic Programming|[Java](./src/solution/hard/P32_Longest_Valid_Parentheses.java)|Hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Array|[Java](./src/solution/medium/P31_Next_Permutation.java)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|
 |25|[Reverse Nodes in kGroup](https://leetcode.com/problems/reverse-nodes-in-k-group/)|Linked List|[Java](./src/solution/hard/P25_Reverse_Nodes_in_kGroup.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Linked List|[Java](./src/solution/medium/P24_Swap_Nodes_in_Pairs.java)|Medium|
