@@ -20,6 +20,7 @@ Practice Makes Perfect :lollipop:
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|Breadth-first Search|[Java](./src/solution/hard/P773_Sliding_Puzzle.java)|Hard|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|Hash Table|[Java](./src/solution/easy/P771_Jewels_and_Stones.java)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|Array、Dynamic Programming|[Java](./src/solution/easy/P746_Min_Cost_Climbing_Stairs.java)|Easy|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Stack、Hash Table|[Java](./src/solution/medium/P739_Daily_Temperatures.java)|Medium|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|Greedy、Array、Dynamic Programming|[Java](./src/solution/medium/P714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.java)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|String|[Java](./src/solution/easy/P709_To_Lower_Case.java)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|String|[Java](./src/solution/easy/P680_Valid_Palindrome_II.java)|Easy|
@@ -45,6 +46,7 @@ Practice Makes Perfect :lollipop:
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Queue、Binary Search、Dynamic Programming|[Java](./src/solution/hard/P363_Max_Sum_of_Rectangle_No_Larger_Than_K.java)|Hard|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Heap、Hash Table|[Java](./src/solution/medium/P347_Top_K_Frequent_Elements.java)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation、Dynamic Programming|[Java](./src/solution/medium/P338_Counting_Bits.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
@@ -73,6 +75,7 @@ Practice Makes Perfect :lollipop:
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Array|[Java](./src/solution/medium/P189_Rotate_Array.java)|Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Dynamic Programming|[Java](./src/solution/hard/P188_Best_Time_to_Buy_and_Sell_Stock_IV.java)|Hard|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Linked List|[Java](./src/solution/easy/P160_Intersection_of_Two_Linked_Lists.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Stack、Design|[Java](./src/solution/easy/P155_Min_Stack.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P153_Find_Minimum_in_Rotated_Sorted_Array.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Array、Dynamic Programming|[Java](./src/solution/medium/P152_Maximum_Product_Subarray.java)|Medium|
