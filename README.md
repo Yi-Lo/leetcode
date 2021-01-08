@@ -26,6 +26,7 @@ Practice Makes Perfect :lollipop:
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|String|[Java](./src/solution/easy/P680_Valid_Palindrome_II.java)|Easy|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|String、Dynamic Programming|[Java](./src/solution/medium/P647_Palindromic_Substrings.java)|Medium|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Greedy、Queue、Array|[Java](./src/solution/medium/P621_Task_Scheduler.java)|Medium|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Tree|[Java](./src/solution/easy/P617_Merge_Two_Binary_Trees.java)|Easy|
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|String|[Java](./src/solution/easy/P557_Reverse_Words_in_a_String_III.java)|Easy|
@@ -56,6 +57,7 @@ Practice Makes Perfect :lollipop:
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Dynamic Programming|[Java](./src/solution/medium/P309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Binary Search、Dynamic Programming|[Java](./src/solution/medium/P300_Longest_Increasing_Subsequence.java)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Tree、Design|[Java](./src/solution/hard/P297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Array、Two Pointers、Binary Search|[Java](./src/solution/medium/P287_Find_the_Duplicate_Number.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Heap、Sliding Window|[Java](./src/solution/hard/P239_Sliding_Window_Maximum.java)|Hard|
@@ -82,6 +84,7 @@ Practice Makes Perfect :lollipop:
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P153_Find_Minimum_in_Rotated_Sorted_Array.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Array、Dynamic Programming|[Java](./src/solution/medium/P152_Maximum_Product_Subarray.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|String|[Java](./src/solution/medium/P151_Reverse_Words_in_a_String.java)|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|Sort、Linked List|[Java](./src/solution/medium/P148_Sort_List.java)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Design|[Java](./src/solution/medium/P146_LRU_Cache.java)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Linked List、Two Pointers|[Java](./src/solution/medium/P142_Linked_List_Cycle_II.java)|Medium|
