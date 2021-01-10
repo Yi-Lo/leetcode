@@ -38,6 +38,7 @@ Practice Makes Perfect :lollipop:
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P493_Reverse_Pairs.java)|Hard|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|Bit Manipulation|[Java](./src/solution/easy/P461_Hamming_Distance.java)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|[Java](./src/solution/easy/P455_Assign_Cookies.java)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Hash Table|[Java](./src/solution/medium/P438_Find_All_Anagrams_in_a_String.java)|Medium|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Backtracking、Breadth-first Search|[Java](./src/solution/medium/P433_Minimum_Genetic_Mutation.java)|Medium|
@@ -52,6 +53,7 @@ Practice Makes Perfect :lollipop:
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Heap、Hash Table|[Java](./src/solution/medium/P347_Top_K_Frequent_Elements.java)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation、Dynamic Programming|[Java](./src/solution/medium/P338_Counting_Bits.java)|Medium|
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Tree、Depth-first Search|[Java](./src/solution/medium/P337_House_Robber_III.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Divide and Conquer、Dynamic Programming|[Java](./src/solution/hard/P312_Burst_Balloons.java)|Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Dynamic Programming|[Java](./src/solution/medium/P309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java)|Medium|
@@ -92,6 +94,7 @@ Practice Makes Perfect :lollipop:
 |139|[Word Break](https://leetcode.com/problems/word-break/)|Dynamic Programming|[Java](./src/solution/medium/P139_Word_Break.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P136_Single_Number.java)|Easy|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P130_Surrounded_Regions.java)|Medium|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Union Find、Array|[Java](./src/solution/hard/P128_Longest_Consecutive_Sequence.java)|Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|Breadth-first Search|[Java](./src/solution/medium/P127_Word_Ladder.java)|Medium|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|Breadth-first Search、Array、String、Backtracking|[Java](./src/solution/hard/P126_Word_Ladder_II.java)|Hard|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Two Pointers、String|[Java](./src/solution/easy/P125_Valid_Palindrome.java)|Easy|
