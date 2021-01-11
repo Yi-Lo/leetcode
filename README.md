@@ -43,6 +43,7 @@ Practice Makes Perfect :lollipop:
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Hash Table|[Java](./src/solution/medium/P438_Find_All_Anagrams_in_a_String.java)|Medium|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Backtracking、Breadth-first Search|[Java](./src/solution/medium/P433_Minimum_Genetic_Mutation.java)|Medium|
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Dynamic Programming|[Java](./src/solution/medium/P416_Partition_Equal_Subset_Sum.java)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Binary Search、Dynamic Programming|[Java](./src/solution/hard/P410_Split_Array_Largest_Sum.java)|Hard|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Dynamic Programming|[Java](./src/solution/hard/P403_Frog_Jump.java)|Hard|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|Stack、Depth-first Search|[Java](./src/solution/medium/P394_Decode_String.java)|Medium|
@@ -63,6 +64,7 @@ Practice Makes Perfect :lollipop:
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Heap、Sliding Window|[Java](./src/solution/hard/P239_Sliding_Window_Maximum.java)|Hard|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Array|[Java](./src/solution/medium/P238_Product_of_Array_Except_Self.java)|Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Tree|[Java](./src/solution/medium/P236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|Linked List、Two Pointers|[Java](./src/solution/easy/P234_Palindrome_Linked_List.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Bit Manipulation、Math|[Java](./src/solution/easy/P231_Power_of_Two.java)|Easy|
@@ -72,6 +74,7 @@ Practice Makes Perfect :lollipop:
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Dynamic Programming|[Java](./src/solution/medium/P213_House_Robber_II.java)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Trie、Backtracking|[Java](./src/solution/hard/P212_Word_Search_II.java)|Hard|
 |208|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Design、Trie|[Java](./src/solution/medium/P208_Implement_Trie_Prefix_Tree.java)|Medium|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Depth-first Search、Breadth-first Search、Graph、Topological Sort|[Java](./src/solution/medium/P207_Course_Schedule.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List|[Java](./src/solution/easy/P206_Reverse_Linked_List.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Hash Table|[Java](./src/solution/easy/P205_Isomorphic_Strings.java)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P200_Number_of_Islands.java)|Medium|
