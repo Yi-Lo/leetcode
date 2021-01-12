@@ -29,6 +29,7 @@ Practice Makes Perfect :lollipop:
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Tree|[Java](./src/solution/easy/P617_Merge_Two_Binary_Trees.java)|Easy|
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Array、Hash Table|[Java](./src/solution/medium/P560_Subarray_Sum_Equals_K.java)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|String|[Java](./src/solution/easy/P557_Reverse_Words_in_a_String_III.java)|Easy|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|Dynamic Programming|[Java](./src/solution/hard/P552_Student_Attendance_Record_II.java)|Hard|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Depth-first Search、Union Find|[Java](./src/solution/medium/P547_Friend_Circles.java)|Medium|
@@ -40,7 +41,9 @@ Practice Makes Perfect :lollipop:
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P493_Reverse_Pairs.java)|Hard|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|Bit Manipulation|[Java](./src/solution/easy/P461_Hamming_Distance.java)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|[Java](./src/solution/easy/P455_Assign_Cookies.java)|Easy|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Array|[Java](./src/solution/easy/P448_Find_All_Numbers_Disappeared_in_an_Array.java)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Hash Table|[Java](./src/solution/medium/P438_Find_All_Anagrams_in_a_String.java)|Medium|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|Tree|[Java](./src/solution/medium/P437_Path_Sum_III.java)|Medium|
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Backtracking、Breadth-first Search|[Java](./src/solution/medium/P433_Minimum_Genetic_Mutation.java)|Medium|
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Dynamic Programming|[Java](./src/solution/medium/P416_Partition_Equal_Subset_Sum.java)|Medium|
