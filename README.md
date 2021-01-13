@@ -35,6 +35,7 @@ Practice Makes Perfect :lollipop:
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/)|Depth-first Search、Union Find|[Java](./src/solution/medium/P547_Friend_Circles.java)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Tree|[Java](./src/solution/easy/P543_Diameter_of_Binary_Tree.java)|Easy|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|String|[Java](./src/solution/easy/P541_Reverse_String_II.java)|Easy|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|Tree|[Java](./src/solution/medium/P538_Convert_BST_to_Greater_Tree.java)|Medium|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P529_Minesweeper.java)|Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
@@ -48,7 +49,9 @@ Practice Makes Perfect :lollipop:
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Dynamic Programming|[Java](./src/solution/medium/P416_Partition_Equal_Subset_Sum.java)|Medium|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Binary Search、Dynamic Programming|[Java](./src/solution/hard/P410_Split_Array_Largest_Sum.java)|Hard|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Greedy|[Java](./src/solution/medium/P406_Queue_Reconstruction_by_Height.java)|Medium|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Dynamic Programming|[Java](./src/solution/hard/P403_Frog_Jump.java)|Hard|
+|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|Union Find、Graph|[Java](./src/solution/medium/P399_Evaluate_Division.java)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|Stack、Depth-first Search|[Java](./src/solution/medium/P394_Decode_String.java)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P389_Find_the_Difference.java)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
