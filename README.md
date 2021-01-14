@@ -29,6 +29,7 @@ Practice Makes Perfect :lollipop:
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Tree|[Java](./src/solution/easy/P617_Merge_Two_Binary_Trees.java)|Easy|
 |590|[Nary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|Tree|[Java](./src/solution/easy/P590_Nary_Tree_Postorder_Traversal.java)|Easy|
 |589|[Nary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|Tree|[Java](./src/solution/easy/P589_Nary_Tree_Preorder_Traversal.java)|Easy|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|Array|[Java](./src/solution/medium/P581_Shortest_Unsorted_Continuous_Subarray.java)|Medium|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Array、Hash Table|[Java](./src/solution/medium/P560_Subarray_Sum_Equals_K.java)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|String|[Java](./src/solution/easy/P557_Reverse_Words_in_a_String_III.java)|Easy|
 |552|[Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)|Dynamic Programming|[Java](./src/solution/hard/P552_Student_Attendance_Record_II.java)|Hard|
@@ -39,6 +40,7 @@ Practice Makes Perfect :lollipop:
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P529_Minesweeper.java)|Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|Depth-first Search、Dynamic Programming|[Java](./src/solution/medium/P494_Target_Sum.java)|Medium|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P493_Reverse_Pairs.java)|Hard|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|Bit Manipulation|[Java](./src/solution/easy/P461_Hamming_Distance.java)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|[Java](./src/solution/easy/P455_Assign_Cookies.java)|Easy|
@@ -69,6 +71,7 @@ Practice Makes Perfect :lollipop:
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Array、Two Pointers、Binary Search|[Java](./src/solution/medium/P287_Find_the_Duplicate_Number.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Binary Search、Divide and Conquer|[Java](./src/solution/medium/P240_Search_a_2D_Matrix_II.java)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Heap、Sliding Window|[Java](./src/solution/hard/P239_Sliding_Window_Maximum.java)|Hard|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Array|[Java](./src/solution/medium/P238_Product_of_Array_Except_Self.java)|Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Tree|[Java](./src/solution/medium/P236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
