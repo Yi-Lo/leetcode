@@ -159,12 +159,14 @@ Practice Makes Perfect :lollipop:
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|Greedy、String、Dynamic Programming、Backtracking|[Java](./src/solution/hard/P44_Wildcard_Matching.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Stack、Array、Two Pointers|[Java](./src/solution/hard/P42_Trapping_Rain_Water.java)|Hard|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Array、Backtracking|[Java](./src/solution/medium/P39_Combination_Sum.java)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|String|[Java](./src/solution/easy/P38_Count_and_Say.java)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|Hash Table、Backtracking|[Java](./src/solution/hard/P37_Sudoku_Solver.java)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Hash Table|[Java](./src/solution/medium/P36_Valid_Sudoku.java)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P33_Search_in_Rotated_Sorted_Array.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|String、Dynamic Programming|[Java](./src/solution/hard/P32_Longest_Valid_Parentheses.java)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Array|[Java](./src/solution/medium/P31_Next_Permutation.java)|Medium|
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)|Two Pointers、String|[Java](./src/solution/easy/P28_Implement_strStr.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|
 |25|[Reverse Nodes in kGroup](https://leetcode.com/problems/reverse-nodes-in-k-group/)|Linked List|[Java](./src/solution/hard/P25_Reverse_Nodes_in_kGroup.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Linked List|[Java](./src/solution/medium/P24_Swap_Nodes_in_Pairs.java)|Medium|
@@ -175,6 +177,7 @@ Practice Makes Perfect :lollipop:
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Linked List、Two Pointers|[Java](./src/solution/medium/P19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|String、Backtracking|[Java](./src/solution/medium/P17_Letter_Combinations_of_a_Phone_Number.java)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|String|[Java](./src/solution/easy/P14_Longest_Common_Prefix.java)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Math、String|[Java](./src/solution/easy/P13_Roman_to_Integer.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Array、Two Pointers|[Java](./src/solution/medium/P11_Container_With_Most_Water.java)|Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|String、Dynamic Programming、Backtracking|[Java](./src/solution/hard/P10_Regular_Expression_Matching.java)|Hard|
 |8|[String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/)|Math、String|[Java](./src/solution/medium/P8_String_to_Integer_atoi.java)|Medium|
