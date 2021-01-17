@@ -117,11 +117,13 @@ Practice Makes Perfect :lollipop:
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Greedy、Array|[Java](./src/solution/easy/P122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Array、Dynamic Programming|[Java](./src/solution/easy/P121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
 |120|[Triangle](https://leetcode.com/problems/triangle/)|Array、Dynamic Programming|[Java](./src/solution/medium/P120_Triangle.java)|Medium|
+|118|[Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)|Array|[Java](./src/solution/easy/P118_Pascals_Triangle.java)|Easy|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|String、Dynamic Programming|[Java](./src/solution/hard/P115_Distinct_Subsequences.java)|Hard|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|Tree、Depth-first Search|[Java](./src/solution/medium/P114_Flatten_Binary_Tree_to_Linked_List.java)|Medium|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/easy/P111_Minimum_Depth_of_Binary_Tree.java)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Tree、Depth-first Search、Array|[Java](./src/solution/medium/P105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Tree、Depth-first Search|[Java](./src/solution/easy/P104_Maximum_Depth_of_Binary_Tree.java)|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|Stack、Tree、Breadth-first Search|[Java](./src/solution/medium/P103_Binary_Tree_Zigzag_Level_Order_Traversal.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P102_Binary_Tree_Level_Order_Traversal.java)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/easy/P101_Symmetric_Tree.java)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|Tree、Depth-first Search|[Java](./src/solution/medium/P98_Validate_Binary_Search_Tree.java)|Medium|
@@ -158,6 +160,7 @@ Practice Makes Perfect :lollipop:
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Greedy、Array|[Java](./src/solution/hard/P45_Jump_Game_II.java)|Hard|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|Greedy、String、Dynamic Programming、Backtracking|[Java](./src/solution/hard/P44_Wildcard_Matching.java)|Hard|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|Stack、Array、Two Pointers|[Java](./src/solution/hard/P42_Trapping_Rain_Water.java)|Hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|Array|[Java](./src/solution/hard/P41_First_Missing_Positive.java)|Hard|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Array、Backtracking|[Java](./src/solution/medium/P39_Combination_Sum.java)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|String|[Java](./src/solution/easy/P38_Count_and_Say.java)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|Hash Table、Backtracking|[Java](./src/solution/hard/P37_Sudoku_Solver.java)|Hard|
