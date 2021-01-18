@@ -81,6 +81,7 @@ Practice Makes Perfect :lollipop:
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Bit Manipulation、Math|[Java](./src/solution/easy/P231_Power_of_Two.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Tree|[Java](./src/solution/easy/P226_Invert_Binary_Tree.java)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Dynamic Programming|[Java](./src/solution/medium/P221_Maximal_Square.java)|Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Array、Hash Table|[Java](./src/solution/easy/P217_Contains_Duplicate.java)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Heap、Divide and Conquer|[Java](./src/solution/medium/P215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Dynamic Programming|[Java](./src/solution/medium/P213_House_Robber_II.java)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Trie、Backtracking|[Java](./src/solution/hard/P212_Word_Search_II.java)|Hard|
@@ -88,6 +89,7 @@ Practice Makes Perfect :lollipop:
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Depth-first Search、Breadth-first Search、Graph、Topological Sort|[Java](./src/solution/medium/P207_Course_Schedule.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List|[Java](./src/solution/easy/P206_Reverse_Linked_List.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Hash Table|[Java](./src/solution/easy/P205_Isomorphic_Strings.java)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|Hash Table、Math|[Java](./src/solution/easy/P202_Happy_Number.java)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P200_Number_of_Islands.java)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic Programming|[Java](./src/solution/easy/P198_House_Robber.java)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Bit Manipulation|[Java](./src/solution/easy/P191_Number_of_1_Bits.java)|Easy|
@@ -149,6 +151,7 @@ Practice Makes Perfect :lollipop:
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|String|[Java](./src/solution/easy/P58_Length_of_Last_Word.java)|Easy|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Sort、Array|[Java](./src/solution/medium/P56_Merge_Intervals.java)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|Greedy、Array|[Java](./src/solution/medium/P55_Jump_Game.java)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|Array|[Java](./src/solution/medium/P54_Spiral_Matrix.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Array、Divide and Conquer、Dynamic Programming|[Java](./src/solution/easy/P53_Maximum_Subarray.java)|Easy|
 |52|[N Queens II](https://leetcode.com/problems/n-queens-ii/)|Backtracking|[Java](./src/solution/hard/P52_N_Queens_II.java)|Hard|
 |51|[N Queens](https://leetcode.com/problems/n-queens/)|Backtracking|[Java](./src/solution/hard/P51_N_Queens.java)|Hard|
