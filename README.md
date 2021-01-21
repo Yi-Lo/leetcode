@@ -71,8 +71,10 @@ Practice Makes Perfect :lollipop:
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/hard/P301_Remove_Invalid_Parentheses.java)|Hard|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Binary Search、Dynamic Programming|[Java](./src/solution/medium/P300_Longest_Increasing_Subsequence.java)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Tree、Design|[Java](./src/solution/hard/P297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life/)|Array|[Java](./src/solution/medium/P289_Game_of_Life.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Array、Two Pointers、Binary Search|[Java](./src/solution/medium/P287_Find_the_Duplicate_Number.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|Bit Manipulation、Array、Math|[Java](./src/solution/easy/P268_Missing_Number.java)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|Heap、Greedy、Sort|[Java](./src/solution/medium/P253_Meeting_Rooms_II.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Binary Search、Divide and Conquer|[Java](./src/solution/medium/P240_Search_a_2D_Matrix_II.java)|Medium|
@@ -112,6 +114,7 @@ Practice Makes Perfect :lollipop:
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List、Two Pointers|[Java](./src/solution/easy/P141_Linked_List_Cycle.java)|Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|Dynamic Programming|[Java](./src/solution/medium/P139_Word_Break.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P136_Single_Number.java)|Easy|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)|Greedy|[Java](./src/solution/medium/P134_Gas_Station.java)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P130_Surrounded_Regions.java)|Medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Union Find、Array|[Java](./src/solution/hard/P128_Longest_Consecutive_Sequence.java)|Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|Breadth-first Search|[Java](./src/solution/medium/P127_Word_Ladder.java)|Medium|
