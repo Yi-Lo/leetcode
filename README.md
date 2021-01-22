@@ -94,6 +94,7 @@ Practice Makes Perfect :lollipop:
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Depth-first Search、Breadth-first Search、Graph、Topological Sort|[Java](./src/solution/medium/P207_Course_Schedule.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List|[Java](./src/solution/easy/P206_Reverse_Linked_List.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Hash Table|[Java](./src/solution/easy/P205_Isomorphic_Strings.java)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|Hash Table、Math|[Java](./src/solution/easy/P204_Count_Primes.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|Hash Table、Math|[Java](./src/solution/easy/P202_Happy_Number.java)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P200_Number_of_Islands.java)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|Dynamic Programming|[Java](./src/solution/easy/P198_House_Robber.java)|Easy|
@@ -180,6 +181,7 @@ Practice Makes Perfect :lollipop:
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P33_Search_in_Rotated_Sorted_Array.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|String、Dynamic Programming|[Java](./src/solution/hard/P32_Longest_Valid_Parentheses.java)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|Array|[Java](./src/solution/medium/P31_Next_Permutation.java)|Medium|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|Math、Binary Search|[Java](./src/solution/medium/P29_Divide_Two_Integers.java)|Medium|
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)|Two Pointers、String|[Java](./src/solution/easy/P28_Implement_strStr.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Array、Two Pointers|[Java](./src/solution/easy/P26_Remove_Duplicates_from_Sorted_Array.java)|Easy|
 |25|[Reverse Nodes in kGroup](https://leetcode.com/problems/reverse-nodes-in-k-group/)|Linked List|[Java](./src/solution/hard/P25_Reverse_Nodes_in_kGroup.java)|Hard|
