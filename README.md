@@ -84,12 +84,14 @@ Practice Makes Perfect :lollipop:
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|Tree|[Java](./src/solution/medium/P236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|Linked List、Two Pointers|[Java](./src/solution/easy/P234_Palindrome_Linked_List.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Bit Manipulation、Math|[Java](./src/solution/easy/P231_Power_of_Two.java)|Easy|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Tree、Binary Search|[Java](./src/solution/medium/P230_Kth_Smallest_Element_in_a_BST.java)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Tree|[Java](./src/solution/easy/P226_Invert_Binary_Tree.java)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Dynamic Programming|[Java](./src/solution/medium/P221_Maximal_Square.java)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Array、Hash Table|[Java](./src/solution/easy/P217_Contains_Duplicate.java)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Heap、Divide and Conquer|[Java](./src/solution/medium/P215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Dynamic Programming|[Java](./src/solution/medium/P213_House_Robber_II.java)|Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|Trie、Backtracking|[Java](./src/solution/hard/P212_Word_Search_II.java)|Hard|
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|Depth-first Search、Breadth-first Search、Graph、Topological Sort|[Java](./src/solution/medium/P210_Course_Schedule_II.java)|Medium|
 |208|[Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Design、Trie|[Java](./src/solution/medium/P208_Implement_Trie_Prefix_Tree.java)|Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Depth-first Search、Breadth-first Search、Graph、Topological Sort|[Java](./src/solution/medium/P207_Course_Schedule.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Linked List|[Java](./src/solution/easy/P206_Reverse_Linked_List.java)|Easy|
@@ -108,6 +110,7 @@ Practice Makes Perfect :lollipop:
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P153_Find_Minimum_in_Rotated_Sorted_Array.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Array、Dynamic Programming|[Java](./src/solution/medium/P152_Maximum_Product_Subarray.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|String|[Java](./src/solution/medium/P151_Reverse_Words_in_a_String.java)|Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Stack|[Java](./src/solution/medium/P150_Evaluate_Reverse_Polish_Notation.java)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|Sort、Linked List|[Java](./src/solution/medium/P148_Sort_List.java)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Design|[Java](./src/solution/medium/P146_LRU_Cache.java)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
