@@ -57,6 +57,7 @@ Practice Makes Perfect :lollipop:
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|Stack、Depth-first Search|[Java](./src/solution/medium/P394_Decode_String.java)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P389_Find_the_Difference.java)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Heap、Binary Search|[Java](./src/solution/medium/P378_Kth_Smallest_Element_in_a_Sorted_Matrix.java)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Queue、Binary Search、Dynamic Programming|[Java](./src/solution/hard/P363_Max_Sum_of_Rectangle_No_Larger_Than_K.java)|Hard|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Sort、Hash Table、Two Pointers、Binary Search|[Java](./src/solution/easy/P350_Intersection_of_Two_Arrays_II.java)|Easy|
@@ -104,6 +105,7 @@ Practice Makes Perfect :lollipop:
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Bit Manipulation|[Java](./src/solution/easy/P190_Reverse_Bits.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Array|[Java](./src/solution/medium/P189_Rotate_Array.java)|Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Dynamic Programming|[Java](./src/solution/hard/P188_Best_Time_to_Buy_and_Sell_Stock_IV.java)|Hard|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Math|[Java](./src/solution/easy/P171_Excel_Sheet_Column_Number.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Linked List|[Java](./src/solution/easy/P160_Intersection_of_Two_Linked_Lists.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Stack、Design|[Java](./src/solution/easy/P155_Min_Stack.java)|Easy|
@@ -117,6 +119,7 @@ Practice Makes Perfect :lollipop:
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Linked List、Two Pointers|[Java](./src/solution/medium/P142_Linked_List_Cycle_II.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List、Two Pointers|[Java](./src/solution/easy/P141_Linked_List_Cycle.java)|Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|Dynamic Programming|[Java](./src/solution/medium/P139_Word_Break.java)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Hash Table、Linked List|[Java](./src/solution/medium/P138_Copy_List_with_Random_Pointer.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P136_Single_Number.java)|Easy|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|Greedy|[Java](./src/solution/medium/P134_Gas_Station.java)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P130_Surrounded_Regions.java)|Medium|
