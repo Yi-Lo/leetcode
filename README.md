@@ -67,6 +67,7 @@ Practice Makes Perfect :lollipop:
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Tree、Depth-first Search|[Java](./src/solution/medium/P337_House_Robber_III.java)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Linked List|[Java](./src/solution/medium/P328_Odd_Even_Linked_List.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
+|315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P315_Count_of_Smaller_Numbers_After_Self.java)|Hard|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Divide and Conquer、Dynamic Programming|[Java](./src/solution/hard/P312_Burst_Balloons.java)|Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Dynamic Programming|[Java](./src/solution/medium/P309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java)|Medium|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/hard/P301_Remove_Invalid_Parentheses.java)|Hard|
@@ -105,8 +106,10 @@ Practice Makes Perfect :lollipop:
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Bit Manipulation|[Java](./src/solution/easy/P190_Reverse_Bits.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Array|[Java](./src/solution/medium/P189_Rotate_Array.java)|Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Dynamic Programming|[Java](./src/solution/hard/P188_Best_Time_to_Buy_and_Sell_Stock_IV.java)|Hard|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|Math|[Java](./src/solution/easy/P172_Factorial_Trailing_Zeroes.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Math|[Java](./src/solution/easy/P171_Excel_Sheet_Column_Number.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Array、Binary Search|[Java](./src/solution/medium/P162_Find_Peak_Element.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Linked List|[Java](./src/solution/easy/P160_Intersection_of_Two_Linked_Lists.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Stack、Design|[Java](./src/solution/easy/P155_Min_Stack.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Array、Binary Search|[Java](./src/solution/medium/P153_Find_Minimum_in_Rotated_Sorted_Array.java)|Medium|

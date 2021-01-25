@@ -11,11 +11,9 @@ public class P171_Excel_Sheet_Column_Number {
 
     public static int titleToNumber(String s) {
         int sum = 0;
-        char[] chs = s.toCharArray();
-        for (int i = 0; i < chs.length; i++) {
-            int num = chs[i] - 'A' + 1;
-            int power = chs.length - 1 - i;
-            sum += num * Math.pow(26, power);
+        for (int i = 0; i < s.length(); i++) {
+            int num = s.charAt(i) - 'A' + 1;
+            sum = sum * 26 + num;
         }
         return sum;
     }
