@@ -44,6 +44,7 @@ Practice Makes Perfect :lollipop:
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P493_Reverse_Pairs.java)|Hard|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|Bit Manipulation|[Java](./src/solution/easy/P461_Hamming_Distance.java)|Easy|
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|Greedy|[Java](./src/solution/easy/P455_Assign_Cookies.java)|Easy|
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)|Hash Table、Binary Search|[Java](./src/solution/medium/P454_4Sum_II.java)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Array|[Java](./src/solution/easy/P448_Find_All_Numbers_Disappeared_in_an_Array.java)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Hash Table|[Java](./src/solution/medium/P438_Find_All_Anagrams_in_a_String.java)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|Tree|[Java](./src/solution/medium/P437_Path_Sum_III.java)|Medium|
@@ -125,6 +126,7 @@ Practice Makes Perfect :lollipop:
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Hash Table、Linked List|[Java](./src/solution/medium/P138_Copy_List_with_Random_Pointer.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P136_Single_Number.java)|Easy|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|Greedy|[Java](./src/solution/medium/P134_Gas_Station.java)|Medium|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|Depth-first Search、Dynamic Programming、Backtracking|[Java](./src/solution/medium/P131_Palindrome_Partitioning.java)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|Depth-first Search、Breadth-first Search、Union Find|[Java](./src/solution/medium/P130_Surrounded_Regions.java)|Medium|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Union Find、Array|[Java](./src/solution/hard/P128_Longest_Consecutive_Sequence.java)|Hard|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|Breadth-first Search|[Java](./src/solution/medium/P127_Word_Ladder.java)|Medium|
@@ -159,6 +161,7 @@ Practice Makes Perfect :lollipop:
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|Hash Table、Two Pointers、String、Sliding Window|[Java](./src/solution/hard/P76_Minimum_Window_Substring.java)|Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|Sort、Array、Two Pointers|[Java](./src/solution/medium/P75_Sort_Colors.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Array、Binary Search|[Java](./src/solution/medium/P74_Search_a_2D_Matrix.java)|Medium|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Array|[Java](./src/solution/medium/P73_Set_Matrix_Zeroes.java)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|String、Dynamic Programming|[Java](./src/solution/hard/P72_Edit_Distance.java)|Hard|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Dynamic Programming|[Java](./src/solution/easy/P70_Climbing_Stairs.java)|Easy|
 |69|[Sqrtx](https://leetcode.com/problems/sqrtx/)|Math、Binary Search|[Java](./src/solution/easy/P69_Sqrtx.java)|Easy|
