@@ -66,6 +66,7 @@ Practice Makes Perfect :lollipop:
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation、Dynamic Programming|[Java](./src/solution/medium/P338_Counting_Bits.java)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Tree、Depth-first Search|[Java](./src/solution/medium/P337_House_Robber_III.java)|Medium|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Depth-first Search、Topological Sort、Memoization|[Java](./src/solution/hard/P329_Longest_Increasing_Path_in_a_Matrix.java)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Linked List|[Java](./src/solution/medium/P328_Odd_Even_Linked_List.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P315_Count_of_Smaller_Numbers_After_Self.java)|Hard|
@@ -107,6 +108,7 @@ Practice Makes Perfect :lollipop:
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Bit Manipulation|[Java](./src/solution/easy/P190_Reverse_Bits.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Array|[Java](./src/solution/medium/P189_Rotate_Array.java)|Medium|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|Dynamic Programming|[Java](./src/solution/hard/P188_Best_Time_to_Buy_and_Sell_Stock_IV.java)|Hard|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|Sort|[Java](./src/solution/medium/P179_Largest_Number.java)|Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|Math|[Java](./src/solution/easy/P172_Factorial_Trailing_Zeroes.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Math|[Java](./src/solution/easy/P171_Excel_Sheet_Column_Number.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|
