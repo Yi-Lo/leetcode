@@ -51,6 +51,7 @@ Practice Makes Perfect :lollipop:
 |433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)|Backtracking、Breadth-first Search|[Java](./src/solution/medium/P433_Minimum_Genetic_Mutation.java)|Medium|
 |429|[Nary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|Tree、Breadth-first Search|[Java](./src/solution/medium/P429_Nary_Tree_Level_Order_Traversal.java)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Dynamic Programming|[Java](./src/solution/medium/P416_Partition_Equal_Subset_Sum.java)|Medium|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|String|[Java](./src/solution/easy/P412_Fizz_Buzz.java)|Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|Binary Search、Dynamic Programming|[Java](./src/solution/hard/P410_Split_Array_Largest_Sum.java)|Hard|
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Greedy|[Java](./src/solution/medium/P406_Queue_Reconstruction_by_Height.java)|Medium|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Dynamic Programming|[Java](./src/solution/hard/P403_Frog_Jump.java)|Hard|
@@ -68,6 +69,7 @@ Practice Makes Perfect :lollipop:
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Tree、Depth-first Search|[Java](./src/solution/medium/P337_House_Robber_III.java)|Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Depth-first Search、Topological Sort、Memoization|[Java](./src/solution/hard/P329_Longest_Increasing_Path_in_a_Matrix.java)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Linked List|[Java](./src/solution/medium/P328_Odd_Even_Linked_List.java)|Medium|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Math|[Java](./src/solution/easy/P326_Power_of_Three.java)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P315_Count_of_Smaller_Numbers_After_Self.java)|Hard|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Divide and Conquer、Dynamic Programming|[Java](./src/solution/hard/P312_Burst_Balloons.java)|Hard|
@@ -124,6 +126,7 @@ Practice Makes Perfect :lollipop:
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|Linked List、Two Pointers|[Java](./src/solution/medium/P142_Linked_List_Cycle_II.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|Linked List、Two Pointers|[Java](./src/solution/easy/P141_Linked_List_Cycle.java)|Easy|
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)|Dynamic Programming、Backtracking|[Java](./src/solution/hard/P140_Word_Break_II.java)|Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|Dynamic Programming|[Java](./src/solution/medium/P139_Word_Break.java)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|Hash Table、Linked List|[Java](./src/solution/medium/P138_Copy_List_with_Random_Pointer.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P136_Single_Number.java)|Easy|
