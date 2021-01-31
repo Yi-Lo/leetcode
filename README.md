@@ -60,6 +60,7 @@ Practice Makes Perfect :lollipop:
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P389_Find_the_Difference.java)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Heap、Binary Search|[Java](./src/solution/medium/P378_Kth_Smallest_Element_in_a_Sorted_Matrix.java)|Medium|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Bit Manipulation|[Java](./src/solution/easy/P371_Sum_of_Two_Integers.java)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Queue、Binary Search、Dynamic Programming|[Java](./src/solution/hard/P363_Max_Sum_of_Rectangle_No_Larger_Than_K.java)|Hard|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Sort、Hash Table、Two Pointers、Binary Search|[Java](./src/solution/easy/P350_Intersection_of_Two_Arrays_II.java)|Easy|
@@ -77,6 +78,7 @@ Practice Makes Perfect :lollipop:
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/hard/P301_Remove_Invalid_Parentheses.java)|Hard|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Binary Search、Dynamic Programming|[Java](./src/solution/medium/P300_Longest_Increasing_Subsequence.java)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Tree、Design|[Java](./src/solution/hard/P297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Heap、Design|[Java](./src/solution/hard/P295_Find_Median_from_Data_Stream.java)|Hard|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|Array|[Java](./src/solution/medium/P289_Game_of_Life.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Array、Two Pointers、Binary Search|[Java](./src/solution/medium/P287_Find_the_Duplicate_Number.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
@@ -91,6 +93,7 @@ Practice Makes Perfect :lollipop:
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|Linked List、Two Pointers|[Java](./src/solution/easy/P234_Palindrome_Linked_List.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|Bit Manipulation、Math|[Java](./src/solution/easy/P231_Power_of_Two.java)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Tree、Binary Search|[Java](./src/solution/medium/P230_Kth_Smallest_Element_in_a_BST.java)|Medium|
+|227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|Stack、String|[Java](./src/solution/medium/P227_Basic_Calculator_II.java)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Tree|[Java](./src/solution/easy/P226_Invert_Binary_Tree.java)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Dynamic Programming|[Java](./src/solution/medium/P221_Maximal_Square.java)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Array、Hash Table|[Java](./src/solution/easy/P217_Contains_Duplicate.java)|Easy|
