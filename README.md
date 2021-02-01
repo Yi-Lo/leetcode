@@ -68,6 +68,7 @@ Practice Makes Perfect :lollipop:
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation、Dynamic Programming|[Java](./src/solution/medium/P338_Counting_Bits.java)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Tree、Depth-first Search|[Java](./src/solution/medium/P337_House_Robber_III.java)|Medium|
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Array|[Java](./src/solution/medium/P334_Increasing_Triplet_Subsequence.java)|Medium|
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Depth-first Search、Topological Sort、Memoization|[Java](./src/solution/hard/P329_Longest_Increasing_Path_in_a_Matrix.java)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Linked List|[Java](./src/solution/medium/P328_Odd_Even_Linked_List.java)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Math|[Java](./src/solution/easy/P326_Power_of_Three.java)|Easy|
@@ -117,6 +118,7 @@ Practice Makes Perfect :lollipop:
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|Math|[Java](./src/solution/easy/P172_Factorial_Trailing_Zeroes.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Math|[Java](./src/solution/easy/P171_Excel_Sheet_Column_Number.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|Hash Table、Math|[Java](./src/solution/medium/P166_Fraction_to_Recurring_Decimal.java)|Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Array、Binary Search|[Java](./src/solution/medium/P162_Find_Peak_Element.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Linked List|[Java](./src/solution/easy/P160_Intersection_of_Two_Linked_Lists.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Stack、Design|[Java](./src/solution/easy/P155_Min_Stack.java)|Easy|
@@ -124,6 +126,7 @@ Practice Makes Perfect :lollipop:
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|Array、Dynamic Programming|[Java](./src/solution/medium/P152_Maximum_Product_Subarray.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|String|[Java](./src/solution/medium/P151_Reverse_Words_in_a_String.java)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Stack|[Java](./src/solution/medium/P150_Evaluate_Reverse_Polish_Notation.java)|Medium|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|Hash Table、Math|[Java](./src/solution/hard/P149_Max_Points_on_a_Line.java)|Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|Sort、Linked List|[Java](./src/solution/medium/P148_Sort_List.java)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|Design|[Java](./src/solution/medium/P146_LRU_Cache.java)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|Stack、Tree|[Java](./src/solution/medium/P144_Binary_Tree_Preorder_Traversal.java)|Medium|
