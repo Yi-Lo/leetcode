@@ -56,9 +56,11 @@ Practice Makes Perfect :lollipop:
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|Greedy|[Java](./src/solution/medium/P406_Queue_Reconstruction_by_Height.java)|Medium|
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)|Dynamic Programming|[Java](./src/solution/hard/P403_Frog_Jump.java)|Hard|
 |399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|Union Find、Graph|[Java](./src/solution/medium/P399_Evaluate_Division.java)|Medium|
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|Recursion、Divide and Conquer、Sliding Window|[Java](./src/solution/medium/P395_Longest_Substring_with_At_Least_K_Repeating_Characters.java)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|Stack、Depth-first Search|[Java](./src/solution/medium/P394_Decode_String.java)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P389_Find_the_Difference.java)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
+|380|[Insert Delete GetRandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1/)|Design、Array、Hash Table|[Java](./src/solution/medium/P380_Insert_Delete_GetRandom_O1.java)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Heap、Binary Search|[Java](./src/solution/medium/P378_Kth_Smallest_Element_in_a_Sorted_Matrix.java)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Bit Manipulation|[Java](./src/solution/easy/P371_Sum_of_Two_Integers.java)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
@@ -66,6 +68,7 @@ Practice Makes Perfect :lollipop:
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Sort、Hash Table、Two Pointers、Binary Search|[Java](./src/solution/easy/P350_Intersection_of_Two_Arrays_II.java)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Heap、Hash Table|[Java](./src/solution/medium/P347_Top_K_Frequent_Elements.java)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|Stack、Design|[Java](./src/solution/medium/P341_Flatten_Nested_List_Iterator.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation、Dynamic Programming|[Java](./src/solution/medium/P338_Counting_Bits.java)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Tree、Depth-first Search|[Java](./src/solution/medium/P337_House_Robber_III.java)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Array|[Java](./src/solution/medium/P334_Increasing_Triplet_Subsequence.java)|Medium|

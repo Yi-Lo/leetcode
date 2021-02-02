@@ -1,4 +1,4 @@
-package structure;
+package design;
 
 import java.util.PriorityQueue;
 

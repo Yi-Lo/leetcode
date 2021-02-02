@@ -1,6 +1,6 @@
 package solution.hard;
 
-import structure.MedianFinder;
+import design.MedianFinder;
 
 /**
  * @author Yi-Lo
