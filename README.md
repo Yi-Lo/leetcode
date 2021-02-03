@@ -60,6 +60,7 @@ Practice Makes Perfect :lollipop:
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|Stack、Depth-first Search|[Java](./src/solution/medium/P394_Decode_String.java)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|Bit Manipulation、Hash Table|[Java](./src/solution/easy/P389_Find_the_Difference.java)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|Hash Table、String|[Java](./src/solution/easy/P387_First_Unique_Character_in_a_String.java)|Easy|
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)|Array|[Java](./src/solution/medium/P384_Shuffle_an_Array.java)|Medium|
 |380|[Insert Delete GetRandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1/)|Design、Array、Hash Table|[Java](./src/solution/medium/P380_Insert_Delete_GetRandom_O1.java)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|Heap、Binary Search|[Java](./src/solution/medium/P378_Kth_Smallest_Element_in_a_Sorted_Matrix.java)|Medium|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Bit Manipulation|[Java](./src/solution/easy/P371_Sum_of_Two_Integers.java)|Easy|
@@ -75,6 +76,7 @@ Practice Makes Perfect :lollipop:
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|Depth-first Search、Topological Sort、Memoization|[Java](./src/solution/hard/P329_Longest_Increasing_Path_in_a_Matrix.java)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|Linked List|[Java](./src/solution/medium/P328_Odd_Even_Linked_List.java)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|Math|[Java](./src/solution/easy/P326_Power_of_Three.java)|Easy|
+|324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Sort|[Java](./src/solution/medium/P324_Wiggle_Sort_II.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|Dynamic Programming|[Java](./src/solution/medium/P322_Coin_Change.java)|Medium|
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P315_Count_of_Smaller_Numbers_After_Self.java)|Hard|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Divide and Conquer、Dynamic Programming|[Java](./src/solution/hard/P312_Burst_Balloons.java)|Hard|
@@ -100,6 +102,7 @@ Practice Makes Perfect :lollipop:
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|Stack、String|[Java](./src/solution/medium/P227_Basic_Calculator_II.java)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Tree|[Java](./src/solution/easy/P226_Invert_Binary_Tree.java)|Easy|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|Dynamic Programming|[Java](./src/solution/medium/P221_Maximal_Square.java)|Medium|
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|Heap、Binary Indexed Tree、Segment Tree、Divide and Conquer、Line Sweep|[Java](./src/solution/hard/P218_The_Skyline_Problem.java)|Hard|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Array、Hash Table|[Java](./src/solution/easy/P217_Contains_Duplicate.java)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Heap、Divide and Conquer|[Java](./src/solution/medium/P215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|Dynamic Programming|[Java](./src/solution/medium/P213_House_Robber_II.java)|Medium|
