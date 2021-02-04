@@ -70,6 +70,7 @@ Practice Makes Perfect :lollipop:
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Heap、Hash Table|[Java](./src/solution/medium/P347_Top_K_Frequent_Elements.java)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|Stack、Design|[Java](./src/solution/medium/P341_Flatten_Nested_List_Iterator.java)|Medium|
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|Hash Table、Two Pointers、String、Sliding Window|[Java](./src/solution/medium/P340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Bit Manipulation、Dynamic Programming|[Java](./src/solution/medium/P338_Counting_Bits.java)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|Tree、Depth-first Search|[Java](./src/solution/medium/P337_House_Robber_III.java)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|Array|[Java](./src/solution/medium/P334_Increasing_Triplet_Subsequence.java)|Medium|
@@ -87,6 +88,7 @@ Practice Makes Perfect :lollipop:
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|Heap、Design|[Java](./src/solution/hard/P295_Find_Median_from_Data_Stream.java)|Hard|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|Array|[Java](./src/solution/medium/P289_Game_of_Life.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Array、Two Pointers、Binary Search|[Java](./src/solution/medium/P287_Find_the_Duplicate_Number.java)|Medium|
+|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|Tree|[Java](./src/solution/medium/P285_Inorder_Successor_in_BST.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|Bit Manipulation、Array、Math|[Java](./src/solution/easy/P268_Missing_Number.java)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|Heap、Greedy、Sort|[Java](./src/solution/medium/P253_Meeting_Rooms_II.java)|Medium|
@@ -125,6 +127,7 @@ Practice Makes Perfect :lollipop:
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|Math|[Java](./src/solution/easy/P171_Excel_Sheet_Column_Number.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Bit Manipulation、Array、Divide and Conquer|[Java](./src/solution/easy/P169_Majority_Element.java)|Easy|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|Hash Table、Math|[Java](./src/solution/medium/P166_Fraction_to_Recurring_Decimal.java)|Medium|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|Array|[Java](./src/solution/easy/P163_Missing_Ranges.java)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|Array、Binary Search|[Java](./src/solution/medium/P162_Find_Peak_Element.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Linked List|[Java](./src/solution/easy/P160_Intersection_of_Two_Linked_Lists.java)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|Stack、Design|[Java](./src/solution/easy/P155_Min_Stack.java)|Easy|
