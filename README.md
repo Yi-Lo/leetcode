@@ -67,6 +67,7 @@ Practice Makes Perfect :lollipop:
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Queue、Binary Search、Dynamic Programming|[Java](./src/solution/hard/P363_Max_Sum_of_Rectangle_No_Larger_Than_K.java)|Hard|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Sort、Hash Table、Two Pointers、Binary Search|[Java](./src/solution/easy/P350_Intersection_of_Two_Arrays_II.java)|Easy|
+|348|[Design Tic Tac Toe](https://leetcode.com/problems/design-tic-tac-toe/)|Design|[Java](./src/solution/medium/P348_Design_Tic_Tac_Toe.java)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Heap、Hash Table|[Java](./src/solution/medium/P347_Top_K_Frequent_Elements.java)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|Stack、Design|[Java](./src/solution/medium/P341_Flatten_Nested_List_Iterator.java)|Medium|
@@ -90,6 +91,8 @@ Practice Makes Perfect :lollipop:
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Array、Two Pointers、Binary Search|[Java](./src/solution/medium/P287_Find_the_Duplicate_Number.java)|Medium|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|Tree|[Java](./src/solution/medium/P285_Inorder_Successor_in_BST.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|Array|[Java](./src/solution/medium/P277_Find_the_Celebrity.java)|Medium|
+|269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Graph、Topological Sort|[Java](./src/solution/hard/P269_Alien_Dictionary.java)|Hard|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|Bit Manipulation、Array、Math|[Java](./src/solution/easy/P268_Missing_Number.java)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|Heap、Greedy、Sort|[Java](./src/solution/medium/P253_Meeting_Rooms_II.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
