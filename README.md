@@ -83,6 +83,7 @@ Practice Makes Perfect :lollipop:
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)|Sort、Binary Indexed Tree、Segment Tree、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P315_Count_of_Smaller_Numbers_After_Self.java)|Hard|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|Divide and Conquer、Dynamic Programming|[Java](./src/solution/hard/P312_Burst_Balloons.java)|Hard|
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|Dynamic Programming|[Java](./src/solution/medium/P309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.java)|Medium|
+|308|[Range Sum Query 2D Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/)|Binary Indexed Tree、Segment Tree|[Java](./src/solution/hard/P308_Range_Sum_Query_2D_Mutable.java)|Hard|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/hard/P301_Remove_Invalid_Parentheses.java)|Hard|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Binary Search、Dynamic Programming|[Java](./src/solution/medium/P300_Longest_Increasing_Subsequence.java)|Medium|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Tree、Design|[Java](./src/solution/hard/P297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
@@ -95,6 +96,7 @@ Practice Makes Perfect :lollipop:
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Graph、Topological Sort|[Java](./src/solution/hard/P269_Alien_Dictionary.java)|Hard|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|Bit Manipulation、Array、Math|[Java](./src/solution/easy/P268_Missing_Number.java)|Easy|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|Heap、Greedy、Sort|[Java](./src/solution/medium/P253_Meeting_Rooms_II.java)|Medium|
+|251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|Design|[Java](./src/solution/medium/P251_Flatten_2D_Vector.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Sort、Hash Table|[Java](./src/solution/easy/P242_Valid_Anagram.java)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|Binary Search、Divide and Conquer|[Java](./src/solution/medium/P240_Search_a_2D_Matrix_II.java)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|Heap、Sliding Window|[Java](./src/solution/hard/P239_Sliding_Window_Maximum.java)|Hard|
