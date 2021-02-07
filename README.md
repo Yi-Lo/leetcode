@@ -38,6 +38,8 @@ Practice Makes Perfect :lollipop:
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|String|[Java](./src/solution/easy/P541_Reverse_String_II.java)|Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|Tree|[Java](./src/solution/medium/P538_Convert_BST_to_Greater_Tree.java)|Medium|
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)|Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P529_Minesweeper.java)|Medium|
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|Sort、Two Pointers|[Java](./src/solution/medium/P524_Longest_Word_in_Dictionary_through_Deleting.java)|Medium|
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|Math、Dynamic Programming|[Java](./src/solution/medium/P523_Continuous_Subarray_Sum.java)|Medium|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|Dynamic Programming|[Java](./src/solution/medium/P518_Coin_Change_2.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|Tree、Depth-first Search、Breadth-first Search|[Java](./src/solution/medium/P515_Find_Largest_Value_in_Each_Tree_Row.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|Depth-first Search、Dynamic Programming|[Java](./src/solution/medium/P494_Target_Sum.java)|Medium|
@@ -229,6 +231,7 @@ Practice Makes Perfect :lollipop:
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Stack、String|[Java](./src/solution/easy/P20_Valid_Parentheses.java)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Linked List、Two Pointers|[Java](./src/solution/medium/P19_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|String、Backtracking|[Java](./src/solution/medium/P17_Letter_Combinations_of_a_Phone_Number.java)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|Array、Two Pointers|[Java](./src/solution/medium/P15_3Sum.java)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|String|[Java](./src/solution/easy/P14_Longest_Common_Prefix.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Math、String|[Java](./src/solution/easy/P13_Roman_to_Integer.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Array、Two Pointers|[Java](./src/solution/medium/P11_Container_With_Most_Water.java)|Medium|
@@ -237,4 +240,5 @@ Practice Makes Perfect :lollipop:
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Math|[Java](./src/solution/easy/P7_Reverse_Integer.java)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|String、Dynamic Programming|[Java](./src/solution/medium/P5_Longest_Palindromic_Substring.java)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Array、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P4_Median_of_Two_Sorted_Arrays.java)|Hard|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Hash Table、Two Pointers、String、Sliding Window|[Java](./src/solution/medium/P3_Longest_Substring_Without_Repeating_Characters.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Array、HashTable|[Java](./src/solution/easy/P1_Two_Sum.java)|Easy|
