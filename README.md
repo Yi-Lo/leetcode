@@ -69,6 +69,7 @@ Practice Makes Perfect :lollipop:
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Math、Binary Search|[Java](./src/solution/easy/P367_Valid_Perfect_Square.java)|Easy|
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)|Queue、Binary Search、Dynamic Programming|[Java](./src/solution/hard/P363_Max_Sum_of_Rectangle_No_Larger_Than_K.java)|Hard|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Sort、Hash Table、Two Pointers、Binary Search|[Java](./src/solution/easy/P350_Intersection_of_Two_Arrays_II.java)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|Sort、Hash Table、Two Pointers、Binary Search|[Java](./src/solution/easy/P349_Intersection_of_Two_Arrays.java)|Easy|
 |348|[Design Tic Tac Toe](https://leetcode.com/problems/design-tic-tac-toe/)|Design|[Java](./src/solution/medium/P348_Design_Tic_Tac_Toe.java)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Heap、Hash Table|[Java](./src/solution/medium/P347_Top_K_Frequent_Elements.java)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|Two Pointers、String|[Java](./src/solution/easy/P344_Reverse_String.java)|Easy|
@@ -93,6 +94,7 @@ Practice Makes Perfect :lollipop:
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|Array|[Java](./src/solution/medium/P289_Game_of_Life.java)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Array、Two Pointers、Binary Search|[Java](./src/solution/medium/P287_Find_the_Duplicate_Number.java)|Medium|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|Tree|[Java](./src/solution/medium/P285_Inorder_Successor_in_BST.java)|Medium|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Array、Two Pointers|[Java](./src/solution/easy/P283_Move_Zeroes.java)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|Breadth-first Search、Math、Dynamic Programming|[Java](./src/solution/medium/P279_Perfect_Squares.java)|Medium|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|Array|[Java](./src/solution/medium/P277_Find_the_Celebrity.java)|Medium|
 |269|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|Graph、Topological Sort|[Java](./src/solution/hard/P269_Alien_Dictionary.java)|Hard|
@@ -241,4 +243,5 @@ Practice Makes Perfect :lollipop:
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|String、Dynamic Programming|[Java](./src/solution/medium/P5_Longest_Palindromic_Substring.java)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Array、Binary Search、Divide and Conquer|[Java](./src/solution/hard/P4_Median_of_Two_Sorted_Arrays.java)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Hash Table、Two Pointers、String、Sliding Window|[Java](./src/solution/medium/P3_Longest_Substring_Without_Repeating_Characters.java)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Recursion、Linked List、Math|[Java](./src/solution/medium/P2_Add_Two_Numbers.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|Array、HashTable|[Java](./src/solution/easy/P1_Two_Sum.java)|Easy|
