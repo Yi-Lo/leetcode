@@ -7,9 +7,9 @@ import structure.UnionFind;
  * 2020/12/1 12:58
  * @version 1.0
  * @topics Depth-first Search、Union Find
- * @urllink https://leetcode-cn.com/problems/friend-circles/
+ * @urllink https://leetcode-cn.com/problems/number-of-provinces/
  */
-public class P547_Friend_Circles {
+public class P547_Number_of_Provinces {
 
     public static int findCircleNum_s1(int[][] M) {
         int n = M.length;
